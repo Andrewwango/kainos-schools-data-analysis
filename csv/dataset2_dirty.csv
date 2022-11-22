@@ -1,0 +1,137 @@
+,year,School,Course Name and Course Code,Label,AOL,Pupils,Provider,subject
+0,11,Sullivan Upper School (4420044),AQA Level 1 Level 2 GCSE (9-1) in Computer Science (601/8301/9),A,ST,25,Own School,Computer Studies
+1,11,St Patrick's Grammar (Downpatrick) (4420088),AQA Level 1 Level 2 GCSE (9-1) in Computer Science (601/8301/9),A,ST,20,Own School,Computer Studies
+2,11,Cross and Passion College (3230227),AQA Level 1 Level 2 GCSE (9-1) in Computer Science (601/8301/9),A,ST,9,Collaboration with other school,Computer Studies
+3,11,"Royal School, Dungannon (5420260)",OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,27,Own School,Computer Studies
+4,11,Banbridge Academy (5410013),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,27,Own School,Computer Studies
+5,11,Belfast Model School for Girls (1210021),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,107,Own School,Computer Studies
+6,11,St Colman's College (5420062),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,15,Own School,Computer Studies
+7,11,"Our Lady and St Patrick's College, Knock (4420259)",OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,26,Own School,Computer Studies
+8,11,St Louis' Grammar School (3420010),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,32,Own School,Computer Studies
+9,11,Belfast High School (3420077),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,23,Own School,Computer Studies
+10,11,Belfast Royal Academy (1420028),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,58,Own School,Computer Studies
+11,11,St Mary's Christian Brothers' Grammar School (1420021),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),"A
+:selected:",ST,17,Own School,Computer Studies
+12,11,Rathmore (1420095),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),"A
+:selected:",ST,45,Own School,Computer Studies
+13,11,St Killian's College (3230310),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),"A
+:selected:",ST,16,Own School,Computer Studies
+14,11,St Malachy's College (1420030),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,26,Own School,Computer Studies
+15,11,Lagan College (4260255),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,22,Own School,Computer Studies
+16,11,Antrim Grammar School (3410209),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,21,Own School,Computer Studies
+17,11,St Malachy's High School (Castlewellan) (4230211),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,14,Own School,Computer Studies
+18,12,Sullivan Upper School (4420044),AQA Level 1 Level 2 GCSE (9-1) in Computer Science (601/8301/9),"A
+:selected:",ST,40,Own School,Computer Studies
+19,12,Ballycastle High School (3210124),AQA Level 1 Level 2 GCSE (9-1) in Computer Science (601/8301/9),A,ST,16,Collaboration with other school,Computer Studies
+20,12,Bangor Grammar School (4420015),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,24,Own School,Computer Studies
+21,12,Rathmore (1420095),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,35,Own School,Computer Studies
+22,12,"Royal School, Dungannon (5420260)",OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,17,Own School,Computer Studies
+23,12,Banbridge Academy (5410013),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,25,Own School,Computer Studies
+24,12,St Colman's College (5420062),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,11,Own School,Computer Studies
+25,12,"Our Lady and St Patrick's College, Knock (4420259)",OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,29,Own School,Computer Studies
+26,12,St Louis' Grammar School (3420010),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,21,Own School,Computer Studies
+27,12,Belfast High School (3420077),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),"A
+:selected:",ST,19,Own School,Computer Studies
+28,12,Belfast Royal Academy (1420028),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),"A
+:selected:",ST,52,Own School,Computer Studies
+29,12,Belfast Model School for Girls (1210021),OCR Level 1 Level 2 GCSE (9-1) in Computer Science (601/8355/X),A,ST,35,Own School,Computer Studies
+30,12,St Malachy's College (1420030),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),"A
+:selected:",ST,40,Own School,Computer Studies
+31,12,Antrim Grammar School (3410209),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,16,Own School,Computer Studies
+32,12,Lagan College (4260255),WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science (601/8291/X),A,ST,15,Own School,Computer Studies
+33,13,Methodist College (1420022),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),"G
+:selected:","ST
+:selected:","8
+:selected:",Own School,Computer Studies
+34,13,Sullivan Upper School (4420044),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),"G
+:selected:","ST
+:selected:","12
+:selected:",Own School,Computer Studies
+35,13,Dalriada School (3420012),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),"G
+:unselected:","ST
+:selected:",15,Own School,Computer Studies
+36,13,"Royal School, Dungannon (5420260)",OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:unselected:","ST
+:selected:",5,Own School,Computer Studies
+37,13,St Mary's Christian Brothers' Grammar School (1420021),OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:unselected:","ST
+:selected:",10,Own School,Computer Studies
+38,13,Bangor Grammar School (4420015),OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:selected:","ST
+:selected:","12
+:selected:",Own School,Computer Studies
+39,13,Christian Brothers' Abbey Grammar School (5420059),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:","ST
+:selected:","9
+:selected:",Own School,Computer Studies
+40,13,Portadown College (5410067),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:","ST
+:selected:",8,Own School,Computer Studies
+41,13,Belfast High School (3420077),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:","ST
+:selected:","7
+:selected:",Own School,Computer Studies
+42,13,St Louis' Grammar School (3420010),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:","ST
+:selected:",17,Own School,Computer Studies
+43,13,Royal Belfast Academical Institution (1420027),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:",ST,"13
+:selected:",Own School,Computer Studies
+44,13,Ballyclare High School (Grammar) (3410008),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:",ST,5,Own School,Computer Studies
+45,13,Antrim Grammar School (3410209),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:",ST,5,Own School,Computer Studies
+46,13,"Our Lady and St Patrick's College, Knock (4420259)",WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),G,ST,12,Own School,Computer Studies
+47,13,Rathmore (1420095),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),"G
+:selected:",ST,15,Own School,Computer Studies
+48,13,Assumption Grammar School (4420086),WJEC Level 3 Advanced Subsidiary GCE in Computer Science (601/5391/X),G,ST,5,Own School,Computer Studies
+49,14,Sullivan Upper School (4420044),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),"G
+:unselected:",ST,"4
+:selected:",Own School,Computer Studies
+50,14,Dalriada School (3420012),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),"G
+:selected:","ST
+:selected:",3,Own School,Computer Studies
+51,14,St Patrick's Grammar (Downpatrick) (4420088),AQA Level 3 Advanced GCE in Computer Science (601/4569/9),G,"ST
+:selected:",3,Own School,Computer Studies
+52,14,"Royal School, Dungannon (5420260)",OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:unselected:","ST
+:selected:","4
+:selected:",Own School,Computer Studies
+53,14,St Mary's Christian Brothers' Grammar School (1420021),OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:selected:","ST
+:selected:",19,Own School,Computer Studies
+54,14,Bangor Grammar School (4420015),OCR Level 3 Advanced GCE in Computer Science (601/4911/5),"G
+:selected:","ST
+:selected:","7
+:selected:",Own School,Computer Studies
+55,14,Antrim Grammar School (3410209),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:selected:","ST
+:selected:",1,Own School,Computer Studies
+56,14,Christian Brothers' Abbey Grammar School (5420059),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:",ST,9,Own School,Computer Studies
+57,14,Assumption Grammar School (4420086),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:",ST,4,Own School,Computer Studies
+58,14,"Our Lady and St Patrick's College, Knock (4420259)",WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:",ST,16,Own School,Computer Studies
+59,14,Ballyclare High School (Grammar) (3410008),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:selected:","ST
+:selected:",7,Own School,Computer Studies
+60,14,Portadown College (5410067),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:selected:","ST
+:selected:",12,Own School,Computer Studies
+61,14,St Louis' Grammar School (3420010),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:","ST
+:selected:",11,Own School,Computer Studies
+62,14,Rathmore (1420095),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:selected:",ST,8,Own School,Computer Studies
+63,14,Campbell College (1420020),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:","ST
+:selected:",4,Collaboration with other school,Computer Studies
+64,14,Royal Belfast Academical Institution (1420027),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:selected:","ST
+:selected:",13,Own School,Computer Studies
+65,14,Belfast High School (3420077),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:",ST,5,Own School,Computer Studies
+66,14,Strathearn School (1420089),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),"G
+:unselected:",ST,1,Collaboration with other school,Computer Studies
+67,14,Aquinas Grammar (1420277),WJEC Level 3 Advanced GCE in Computer Science (601/5345/3),G,ST,10,Own School,Computer Studies

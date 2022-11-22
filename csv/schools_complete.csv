@@ -1,0 +1,308 @@
+id,id_raw,name,city,county,postcode,status,type
+1210014,121-0014,Ashfield Girls' High School,BELFAST,ANTRIM,BT4  2LY,Controlled,Secondary
+1210015,121-0015,Ashfield Boys' High School,BELFAST,ANTRIM,BT4  2LY,Controlled,Secondary
+1210021,121-0021,Belfast Model School For Girls,BELFAST,ANTRIM,BT14 6NQ,Controlled,Secondary
+1210022,121-0022,Belfast Boys' Model School,BELFAST,ANTRIM,BT14 6RB,Controlled,Secondary
+1230053,123-0053,St Louise's Comprehensive College,BELFAST,ANTRIM,BT12 6EN,Roman Catholic Maintained,Secondary
+1230104,123-0104,Mercy College Belfast ,BELFAST,ANTRIM,BT14 7QR,Roman Catholic Maintained,Secondary
+1230155,123-0155,St Genevieve's High School,BELFAST,ANTRIM,BT11 9JP,Roman Catholic Maintained,Secondary
+1230182,123-0182,De La Salle College,BELFAST,ANTRIM,BT11 8LT,Roman Catholic Maintained,Secondary
+1230275,123-0275,St Joseph's College,BELFAST,ANTRIM,BT6 0BY ,Roman Catholic Maintained,Secondary
+1230321,123-0321,Blessed Trinity College ,BELFAST,ANTRIM,BT15 4DZ,Roman Catholic Maintained,Secondary
+1230324,123-0324,All Saints College,BELFAST,ANTRIM,BT11 8BW,Roman Catholic Maintained,Secondary
+1240291,124-0291,Coláiste Feirste,BELFAST,ANTRIM,BT12 7PY,Other Maintained,Secondary
+1260269,126-0269,Hazelwood College,NEWTOWNABBEY,ANTRIM,BT36 7ES,Grant Maintained Integrated,Secondary
+1260294,126-0294,Malone Integrated College,BELFAST,ANTRIM,BT10 OJB,Grant Maintained Integrated,Secondary
+1336548,133-6548,St Gerard’s School and Support Services,BELFAST,ANTRIM,BT10 0NB,Roman Catholic Maintained,Special
+2210065,221-0065,Castlederg High School,CASTLEDERG,TYRONE,BT81 7RU,Controlled,Secondary
+2210125,221-0125,Omagh High School,OMAGH,TYRONE,BT79 0EQ,Controlled,Secondary
+2210302,221-0302,Limavady High School,LIMAVADY,LONDONDERRY,BT49 9AN,Controlled,Secondary
+2210306,221-0306,Lisneal College,LONDONDERRY,LONDONDERRY,BT47 5FQ,Controlled,Secondary
+2210312,221-0312,Devenish College,ENNISKILLEN,FERMANAGH,BT74 6JL,Controlled,Secondary
+2230077,223-0077,St Mary's Limavady,LIMAVADY,LONDONDERRY,BT49 9AN,Roman Catholic Maintained,Secondary
+2230081,223-0081,St Mary's College,LONDONDERRY,LONDONDERRY,BT48 0AN,Roman Catholic Maintained,Secondary
+2230099,223-0099,St Fanchea's College,ENNISKILLEN,FERMANAGH,BT74 4AD,Roman Catholic Maintained,Secondary
+2230100,223-0100,St Joseph's College,ENNISKILLEN,FERMANAGH,BT74 6DE,Roman Catholic Maintained,Secondary
+2230109,223-0109,St Mary's College,ENNISKILLEN,FERMANAGH,BT94 1EL,Roman Catholic Maintained,Secondary
+2230122,223-0122,St Patricks & St Brigids College,LONDONDERRY,LONDONDERRY,BT47 4HR,Roman Catholic Maintained,Secondary
+2230131,223-0131,St Joseph's Boys' School,LONDONDERRY,LONDONDERRY,BT48 9NX,Roman Catholic Maintained,Secondary
+2230138,223-0138,Dean Maguirc College,OMAGH,TYRONE,BT79 9JR,Roman Catholic Maintained,Secondary
+2230144,223-0144,St Patrick's College,LONDONDERRY,LONDONDERRY,BT47 4SE,Roman Catholic Maintained,Secondary
+2230148,223-0148,St John's Business and Enterprise College,OMAGH,TYRONE,BT78 3AL,Roman Catholic Maintained,Secondary
+2230166,223-0166,St Aidan's High School,ENNISKILLEN,FERMANAGH,BT92 9LD,Roman Catholic Maintained,Secondary
+2230188,223-0188,St Cecilia's  College,LONDONDERRY,LONDONDERRY,BT48 9PJ,Roman Catholic Maintained,Secondary
+2230225,223-0225,St Brigid's College,LONDONDERRY,LONDONDERRY,BT48 8DU,Roman Catholic Maintained,Secondary
+2230298,223-0298,Sacred Heart College,OMAGH,TYRONE,BT78 1LG,Roman Catholic Maintained,Secondary
+2230301,223-0301,Holy Cross College,STRABANE,TYRONE,BT82 9EF,Roman Catholic Maintained,Secondary
+2230322,223-0322,St Kevin's College,BELLEEK,FERMANAGH,BT92 OLA,Roman Catholic Maintained,Secondary
+2240319,224-0319,Gaelcholáiste Dhoire ,LONDONDERRY,LONDONDERRY,BT47 4LF,Other Maintained,Secondary
+2260276,226-0276,Oakgrove Integrated College,LONDONDERRY,LONDONDERRY,BT47 6TG,Grant Maintained Integrated,Secondary
+2260280,226-0280,Erne Integrated College,ENNISKILLEN,FERMANAGH,BT74 4FY,Grant Maintained Integrated,Secondary
+2260283,226-0283,Drumragh Integrated College,OMAGH,TYRONE,BT79 0GW,Grant Maintained Integrated,Secondary
+3210035,321-0035,Magherafelt High School,MAGHERAFELT,LONDONDERRY,BT45 6AF,Controlled,Secondary
+3210038,321-0038,Larne High School,LARNE,ANTRIM,BT40 1NT,Controlled,Secondary
+3210124,321-0124,Ballycastle High School,BALLYCASTLE,ANTRIM,BT54 6LD,Controlled,Secondary
+3210133,321-0133,Ballymoney High School,BALLYMONEY,ANTRIM,BT53 7AN,Controlled,Secondary
+3210134,321-0134,Ballyclare Secondary School,BALLYCLARE,ANTRIM,BT39 9BG,Controlled,Secondary
+3210172,321-0172,Cullybackey College,BALLYMENA,ANTRIM,BT42 1BP,Controlled,Secondary
+3210202,321-0202,Glengormley High School,NEWTOWNABBEY,ANTRIM,BT36 5HP,Controlled,Secondary
+3210208,321-0208,Dunclug College,BALLYMENA,ANTRIM,BT43 6SU,Controlled,Secondary
+3210222,321-0222,Dunluce School,BUSHMILLS,ANTRIM,BT57 8QQ,Controlled,Secondary
+3210300,321-0300,Coleraine College,COLERAINE,LONDONDERRY,BT51 3LR,Controlled,Secondary
+3210313,321-0313,Abbey Community College ,NEWTOWNABBEY,ANTRIM,BT37 0EA,Controlled,Secondary
+3210323,321-0323,Carrickfergus Academy ,CARRICKFERGUS,ANTRIM,BT38 7QX,Controlled,Secondary
+3230075,323-0075,Our Lady of Lourdes High School,BALLYMONEY,ANTRIM,BT53 6JX,Roman Catholic Maintained,Secondary
+3230084,323-0084,St Patrick's College,BALLYMENA,ANTRIM,BT43 7DZ,Roman Catholic Maintained,Secondary
+3230132,323-0132,St Colm's High School Draperstown,DRAPERSTOWN,LONDONDERRY,BT45 7AF,Roman Catholic Maintained,Secondary
+3230168,323-0168,St Pius X College,MAGHERAFELT,LONDONDERRY,BT45 6HQ,Roman Catholic Maintained,Secondary
+3230203,323-0203,Edmund Rice College,NEWTOWNABBEY,ANTRIM,BT36 7AU,Roman Catholic Maintained,Secondary
+3230227,323-0227,Cross and Passion College,BALLYCASTLE,ANTRIM,BT54 6LA,Roman Catholic Maintained,Secondary
+3230234,323-0234,"St Patrick's College, Maghera",MAGHERA,LONDONDERRY,BT46 5BN,Roman Catholic Maintained,Secondary
+3230308,323-0308,St Benedict's College,RANDALSTOWN,ANTRIM,BT41 2AF,Roman Catholic Maintained,Secondary
+3230310,323-0310,ST KILLIAN'S COLLEGE,BALLYMENA,ANTRIM,BT44 0JS,Roman Catholic Maintained,Secondary
+3230318,323-0318,St Conor's College,PORTGLENONE,ANTRIM,BT44 8NN,Roman Catholic Maintained,Secondary
+3250149,325-0149,Crumlin Integrated College,CRUMLIN,ANTRIM,BT29 4LA,Controlled Integrated,Secondary
+3250207,325-0207,Parkhall Integrated College,ANTRIM,ANTRIM,BT41 1AF,Controlled Integrated,Secondary
+3260289,326-0289,Slemish College,BALLYMENA,ANTRIM,BT42 3HA,Grant Maintained Integrated,Secondary
+3260290,326-0290,North Coast Integrated College,COLERAINE,LONDONDERRY,BT52 2NU,Grant Maintained Integrated,Secondary
+3260299,326-0299,Ulidia Integrated College,CARRICKFERGUS,ANTRIM,BT38 7JL,Grant Maintained Integrated,Secondary
+3260303,326-0303,Sperrin Integrated College,MAGHERAFELT,LONDONDERRY,BT45 6NR,Grant Maintained Integrated,Secondary
+4210012,421-0012,Movilla High School,NEWTOWNARDS,DOWN,BT23 7HA,Controlled,Secondary
+4210029,421-0029,The High School Ballynahinch,BALLYNAHINCH,DOWN,BT24 8EH,Controlled,Secondary
+4210045,421-0045,Nendrum College,NEWTOWNARDS,DOWN,BT23 5BX,Controlled,Secondary
+4210046,421-0046,Glastry College,NEWTOWNARDS,DOWN,BT22 1DQ,Controlled,Secondary
+4210051,421-0051,Lisnagarvey High School,LISBURN,ANTRIM,BT28 1HN,Controlled,Secondary
+4210063,421-0063,Saintfield High School,SAINTFIELD,DOWN,BT24 7BB,Controlled,Secondary
+4210201,421-0201,Laurelhill Community College,LISBURN,ANTRIM,BT28 2UH,Controlled,Secondary
+4210262,421-0262,Dundonald High School,BELFAST,ANTRIM,BT16 1TH,Controlled,Secondary
+4210296,421-0296,Bangor Academy and 6th Form College,BANGOR,DOWN,BT20 4TB,Controlled,Secondary
+4210316,421-0316,Breda Academy,BELFAST,ANTRIM,BT8  6PY,Controlled,Secondary
+4230023,423-0023,St Mary's High School,DOWNPATRICK,DOWN,BT30 6JQ,Roman Catholic Maintained,Secondary
+4230067,423-0067,St Columba's College,NEWTOWNARDS,DOWN,BT22 1RB,Roman Catholic Maintained,Secondary
+4230102,423-0102,St Colmcille's High School,CROSSGAR,DOWN,BT30 9EY,Roman Catholic Maintained,Secondary
+4230107,423-0107,St Columbanus' College,BANGOR,DOWN,BT20 5PU,Roman Catholic Maintained,Secondary
+4230161,423-0161,St Colman's High School & Sixth Form College ,BALLYNAHINCH,DOWN,BT24 8XR,Roman Catholic Maintained,Secondary
+4230165,423-0165,St Patrick's Academy,LISBURN,ANTRIM,BT28 1TD,Roman Catholic Maintained,Secondary
+4230211,423-0211,St Malachy's High School,CASTLEWELLAN,DOWN,BT31 9AG,Roman Catholic Maintained,Secondary
+4230223,423-0223,St Colm's High School,BELFAST,ANTRIM,BT17 0BT,Roman Catholic Maintained,Secondary
+4230224,423-0224,De La Salle High School,DOWNPATRICK,DOWN,BT30 6JR,Roman Catholic Maintained,Secondary
+4250024,425-0024,Priory College,HOLYWOOD,DOWN,BT18 9ER,Controlled Integrated,Secondary
+4250072,425-0072,Fort Hill Integrated College,LISBURN,ANTRIM,BT27 4TL,Controlled Integrated,Secondary
+4260255,426-0255,Lagan College,BELFAST,ANTRIM,BT8 6SA ,Grant Maintained Integrated,Secondary
+4260281,426-0281,Shimna Integrated College,NEWCASTLE,DOWN,BT33 0HD,Grant Maintained Integrated,Secondary
+4260295,426-0295,Strangford Integrated College,CARROWDORE,DOWN,BT22 2GB,Grant Maintained Integrated,Secondary
+4260309,426-0309,Blackwater Integrated College,DOWNPATRICK,DOWN,BT30 6SG,Grant Maintained Integrated,Secondary
+5210016,521-0016,Kilkeel High School,NEWRY,DOWN,BT34 4BP,Controlled,Secondary
+5210025,521-0025,Newtownhamilton High School,NEWRY,DOWN,BT35 0DG,Controlled,Secondary
+5210043,521-0043,Clounagh Junior High School,PORTADOWN,ARMAGH,BT62 3QA,Controlled,Secondary
+5210047,521-0047,Banbridge High School,BANBRIDGE,DOWN,BT32 3EW,Controlled,Secondary
+5210054,521-0054,Killicomaine Junior High School,PORTADOWN,ARMAGH,BT63 5JE,Controlled,Secondary
+5210064,521-0064,Dromore High School,DROMORE,DOWN,BT25 1ND,Controlled,Secondary
+5210083,521-0083,Markethill High School,ARMAGH,ARMAGH,BT60 1RQ,Controlled,Secondary
+5210097,521-0097,Fivemiletown College ,FIVEMILETOWN,TYRONE,BT75 0SB,Controlled,Secondary
+5210121,521-0121,City Armagh High School,ARMAGH,ARMAGH,BT61 7JH,Controlled,Secondary
+5210127,521-0127,Rathfriland High School,NEWRY,DOWN,BT34 5PZ,Controlled,Secondary
+5210143,521-0143,Tandragee Junior High School,TANDRAGEE,ARMAGH,BT62 2AY,Controlled,Secondary
+5210153,521-0153,Aughnacloy High School,AUGHNACLOY,TYRONE,BT69 6DX,Controlled,Secondary
+5210186,521-0186,Newry High School,NEWRY,DOWN,BT34 1QN,Controlled,Secondary
+5210230,521-0230,Cookstown High School,COOKSTOWN,TYRONE,BT80 8PQ,Controlled,Secondary
+5210231,521-0231,Drumglass High School,DUNGANNON,TYRONE,BT71 4AA,Controlled,Secondary
+5210271,521-0271,Lurgan Junior High,LURGAN,ARMAGH,BT66 8SU,Controlled,Secondary
+5210282,521-0282,Craigavon Senior High School,PORTADOWN,ARMAGH,BT63 5HJ,Controlled,Secondary
+5230056,523-0056,St Joseph's Boys' High School,NEWRY,DOWN,BT35 6DH,Roman Catholic Maintained,Secondary
+5230076,523-0076,St Patrick's College,BANBRIDGE,DOWN,BT32 3AS,Roman Catholic Maintained,Secondary
+5230108,523-0108,St Mary's High School,NEWRY,DOWN,BT34 2DT,Roman Catholic Maintained,Secondary
+5230135,523-0135,St Mark's High School,NEWRY,DOWN,BT34 3PN,Roman Catholic Maintained,Secondary
+5230152,523-0152,St Ciaran's College,DUNGANNON,TYRONE,BT70 2LY,Roman Catholic Maintained,Secondary
+5230157,523-0157,St Paul's High School,NEWRY,DOWN,BT35 7EE,Roman Catholic Maintained,Secondary
+5230167,523-0167,St Joseph's High School,NEWRY,DOWN,BT35 9HL,Roman Catholic Maintained,Secondary
+5230187,523-0187,St Patrick's High School,KEADY,ARMAGH,BT60 3TH,Roman Catholic Maintained,Secondary
+5230192,523-0192,St Joseph's College,DUNGANNON,TYRONE,BT71 4NW,Roman Catholic Maintained,Secondary
+5230213,523-0213,Lismore Comprehensive School,CRAIGAVON,ARMAGH,BT65 5DU,Roman Catholic Maintained,Secondary
+5230218,523-0218,St Catherine's College,ARMAGH,ARMAGH,BT60 4BG,Roman Catholic Maintained,Secondary
+5230278,523-0278,Holy Trinity College,COOKSTOWN,TYRONE,BT80 8QB,Roman Catholic Maintained,Secondary
+5230293,523-0293,St Patrick's College,DUNGANNON,TYRONE,BT71 6LJ,Roman Catholic Maintained,Secondary
+5230321,523-0321,St John the Baptist College,ARMAGH,ARMAGH,BT62 1QQ,Roman Catholic Maintained,Secondary
+5250216,525-0216,Brownlow Int College,CRAIGAVON,ARMAGH,BT65 5BS,Controlled Integrated,Secondary
+5260285,526-0285,New-Bridge Integrated College,BANBRIDGE,DOWN,BT32 3LN,Grant Maintained Integrated,Secondary
+5260286,526-0286,Integrated College Dungannon,DUNGANNON,TYRONE,BT71 6LS,Grant Maintained Integrated,Secondary
+5420314,,St Ronan's College,,,BT67 9JW,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+3420068,,Dominican College,,,BT15 4AQ,,
+2410311,,Strabane Academy,,,BT82 8NW,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+5420314,,St Ronan's College,,,BT67 9JW,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+1410270,,Wellington College,,,BT7 3HE,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+2410311,,Strabane Academy,,,BT82 8NW,,
+3420068,,Dominican College,,,BT15 4AQ,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+4420050,,Friends' School,,,BT28 3BH,,
+5420263,,"Royal School, Armagh",,,BT61 9DH,,
+2410048,,Limavady Grammar School,,,BT49 9ET,,
+2420064,,Christian Brothers Grammar (Omagh),,,BT78 1LD,,
+1420028,,Belfast Royal Academy,,,BT14 6JL,,
+3420034,,Loreto College,,,BT51 3JZ,,
+2420287,,Lumen Christi College,,,BT48 6UJ,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+4420051,,Wallace High School,,,BT28 3AD,,
+5410013,,Banbridge Academy,,,BT32 4AQ,,
+5420304,,St Patrick's Academy (Dungannon),,,BT71 6DS,,
+3420080,,St Mary's Grammar School,,,BT45 6BE,,
+2420065,,Loreto Grammar,,,BT78 1DL,,
+5420060,,Our Lady's Grammar School,,,BT35 6DY,,
+4410085,,Down High School,,,BT30 6EU,,
+1410079,,Grosvenor Grammar School,,,BT5 6BA,,
+5420314,,St Ronan's College,,,BT67 9JW,,
+5420062,,St Colman's College,,,BT35 6PP,,
+1420030,,St Malachy's College,,,BT15 2AE,,
+2410311,,Strabane Academy,,,BT82 8NW,,
+2420064,,Christian Brothers Grammar (Omagh),,,BT78 1LD,,
+3420034,,Loreto College,,,BT51 3JZ,,
+3410098,,Carrickfergus Grammar School,,,BT38 7RA,,
+4420086,,Assumption Grammar School,,,BT24 8EA,,
+1420030,,St Malachy's College,,,BT15 2AE,,
+5420073,,St Joseph's Grammar School,,,BT70 3HE,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+5420314,,St Ronan's College,,,BT67 9JW,,
+1420029,,St Dominic's Grammar School for Girls,,,BT12 6AE,,
+3420068,,Dominican College,,,BT15 4AQ,,
+2420054,,St Columb's College,,,BT48 8NH,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+4410085,,Down High School,,,BT30 6EU,,
+5420059,,Christian Brothers' Abbey Grammar School,,,BT34 1QN,,
+1420264,,Victoria College,,,BT9 6JA,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+2420229,,Foyle College,,,BT47 6LR,,
+3410297,,Cambridge House Grammar School,,,BT42 2EH,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+1410315,,Bloomfield Collegiate School,,,BT5 6HW,,
+2420043,,St Michael's Grammar (Enniskillen),,,BT74 6DE,,
+4420088,,St Patrick's Grammar (Downpatrick),,,BT30 6NJ,,
+1420020,,Campbell College,,,BT4 2ND,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+1410270,,Wellington College,,,BT7 3HE,,
+3420046,,Larne Grammar School,,,BT40 1PQ,,
+1420028,,Belfast Royal Academy,,,BT14 6JL,,
+4420050,,Friends' School,,,BT28 3BH,,
+4410085,,Down High School,,,BT30 6EU,,
+2410048,,Limavady Grammar School,,,BT49 9ET,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+5420314,,St Ronan's College,,,BT67 9JW,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+4420051,,Wallace High School,,,BT28 3AD,,
+5410013,,Banbridge Academy,,,BT32 4AQ,,
+1410079,,Grosvenor Grammar School,,,BT5 6BA,,
+5420263,,"Royal School, Armagh",,,BT61 9DH,,
+5420304,,St Patrick's Academy (Dungannon),,,BT71 6DS,,
+5420062,,St Colman's College,,,BT35 6PP,,
+2420287,,Lumen Christi College,,,BT48 6UJ,,
+2420064,,Christian Brothers Grammar (Omagh),,,BT78 1LD,,
+5420060,,Our Lady's Grammar School,,,BT35 6DY,,
+3420034,,Loreto College,,,BT51 3JZ,,
+3420080,,St Mary's Grammar School,,,BT45 6BE,,
+5420073,,St Joseph's Grammar School,,,BT70 3HE,,
+2410311,,Strabane Academy,,,BT82 8NW,,
+1420030,,St Malachy's College,,,BT15 2AE,,
+4420088,,St Patrick's Grammar (Downpatrick),,,BT30 6NJ,,
+5420268,,St Patrick's Grammar (Armagh),,,BT61 7QZ,,
+4410063,,Regent House,,,BT23 4QA,,
+5420314,,St Ronan's College,,,BT67 9JW,,
+2420054,,St Columb's College,,,BT48 8NH,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+5420045,,St Louis' Grammar School,,,BT34 4EU,,
+2420064,,Christian Brothers Grammar (Omagh),,,BT78 1LD,,
+4420086,,Assumption Grammar School,,,BT24 8EA,,
+1420029,,St Dominic's Grammar School for Girls,,,BT12 6AE,,
+3410098,,Carrickfergus Grammar School,,,BT38 7RA,,
+3420034,,Loreto College,,,BT51 3JZ,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+4410085,,Down High School,,,BT30 6EU,,
+3420317,,Coleraine Grammar School,,,BT51 1LZ,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+4420015,,Bangor Grammar School,,,BT19 7QU,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+3410297,,Cambridge House Grammar School,,,BT42 2EH,,
+5420059,,Christian Brothers' Abbey Grammar School,,,BT34 1QN,,
+1420264,,Victoria College,,,BT9 6JA,,
+2420229,,Foyle College,,,BT47 6LR,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+2420043,,St Michael's Grammar (Enniskillen),,,BT74 6DE,,
+1410270,,Wellington College,,,BT7 3HE,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+3420046,,Larne Grammar School,,,BT40 1PQ,,
+4420044,,Sullivan Upper School,,,BT18 9EP,,
+4420088,,St Patrick's Grammar (Downpatrick),,,BT30 6NJ,,
+5420260,,"Royal School, Dungannon",,,BT71 6AP,,
+5410013,,Banbridge Academy,,,BT32 4AQ,,
+5420062,,St Colman's College,,,BT35 6PP,,
+4420259,,"Our Lady and St Patrick's College, Knock",,,BT5 7DL,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420077,,Belfast High School,,,BT37 0PX,,
+1420028,,Belfast Royal Academy,,,BT14 6JL,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+1420095,,Rathmore,,,BT10 0LF,,
+1420030,,St Malachy's College,,,BT15 2AE,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+4420044,,Sullivan Upper School,,,BT18 9EP,,
+4420015,,Bangor Grammar School,,,BT19 7QU,,
+1420095,,Rathmore,,,BT10 0LF,,
+5420260,,"Royal School, Dungannon",,,BT71 6AP,,
+5410013,,Banbridge Academy,,,BT32 4AQ,,
+5420062,,St Colman's College,,,BT35 6PP,,
+4420259,,"Our Lady and St Patrick's College, Knock",,,BT5 7DL,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420077,,Belfast High School,,,BT37 0PX,,
+1420028,,Belfast Royal Academy,,,BT14 6JL,,
+1420030,,St Malachy's College,,,BT15 2AE,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+1420022,,Methodist College,,,BT9 6BY,,
+4420044,,Sullivan Upper School,,,BT18 9EP,,
+3420012,,Dalriada School,,,BT53 6BL,,
+5420260,,"Royal School, Dungannon",,,BT71 6AP,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+4420015,,Bangor Grammar School,,,BT19 7QU,,
+5420059,,Christian Brothers' Abbey Grammar School,,,BT34 1QN,,
+5410067,,Portadown College,,,BT63 5BU,,
+3420077,,Belfast High School,,,BT37 0PX,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+3410008,,Ballyclare High School (Grammar),,,BT39 9HJ,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+4420259,,"Our Lady and St Patrick's College, Knock",,,BT5 7DL,,
+1420095,,Rathmore,,,BT10 0LF,,
+4420086,,Assumption Grammar School,,,BT24 8EA,,
+4420044,,Sullivan Upper School,,,BT18 9EP,,
+3420012,,Dalriada School,,,BT53 6BL,,
+4420088,,St Patrick's Grammar (Downpatrick),,,BT30 6NJ,,
+5420260,,"Royal School, Dungannon",,,BT71 6AP,,
+1420021,,St Mary's Christian Brothers' Grammar School,,,BT11 8NR,,
+4420015,,Bangor Grammar School,,,BT19 7QU,,
+3410209,,Antrim Grammar School,,,BT41 1AF,,
+5420059,,Christian Brothers' Abbey Grammar School,,,BT34 1QN,,
+4420086,,Assumption Grammar School,,,BT24 8EA,,
+4420259,,"Our Lady and St Patrick's College, Knock",,,BT5 7DL,,
+3410008,,Ballyclare High School (Grammar),,,BT39 9HJ,,
+5410067,,Portadown College,,,BT63 5BU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+3420010,,St Louis' Grammar School,,,BT34 4EU,,
+1420095,,Rathmore,,,BT10 0LF,,
+1420020,,Campbell College,,,BT4 2ND,,
+1420027,,Royal Belfast Academical Institution,,,BT1 6DL,,
+3420077,,Belfast High School,,,BT37 0PX,,
+1420089,,Strathearn School,,,BT4 2AU,,
+1420277,,Aquinas Grammar,,,BT6 0BY,,

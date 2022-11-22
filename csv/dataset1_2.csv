@@ -1,0 +1,559 @@
+year,School,Label,AOL,Pupils,Provider,subject,course_name,course_code,school_id
+11,St Patrick's Academy (Lisburn),A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230165
+11,Larne High School,A,LLW,35,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210038
+11,Cullybackey College,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210172
+11,St Mary's High (Newry),A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230108
+11,St Colman's High School,A,LLW,47,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230161
+11,Drumglass High,A,LLW,8,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210231
+11,Limavady High School,A,LLW,127,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2210302
+11,Holy Cross College,A,LLW,43,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230301
+11,Priory Integrated College,A,LLW,40,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4250024
+11,Blackwater Integrated College,A,LLW,14,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4260309
+11,St Killian's College,A,LLW,19,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230310
+11,De La Salle College,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230182
+11,Ballymoney High School,A,LLW,140,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210133
+11,Movilla High School,A,LLW,42,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210012
+11,St Joseph's Boys' School,A,LLW,76,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230131
+11,Lismore Comprehensive,A,LLW,16,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230213
+11,Sacred Heart College,A,LLW,25,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230298
+11,Craigavon Senior High School,A,LLW,90,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210282
+11,Dean Maguirc College,A,LLW,49,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230138
+11,Blessed Trinity College,A,LLW,83,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230321
+11,Our Lady of Lourdes High School,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230075
+11,Saintfield High School,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210063
+11,St Patrick's College (Dungannon),A,LLW,32,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230293
+11,Lagan College,A,LLW,9,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4260255
+11,St Joseph's College (Enniskillen),A,LLW,12,Collaboration with other school,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230100
+11,All Saints College,A,LLW,78,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230324
+11,St Patrick's College (Dungiven),A,LLW,24,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230144
+11,Rathfriland High,A,LLW,18,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210127
+11,Hazelwood Integrated College,A,LLW,54,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1260269
+11,Ashfield Girls' High School,A,LLW,56,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210014
+11,Ulidia Integrated College,A,LLW,20,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3260299
+11,St Genevieve's High,A,LLW,35,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230155
+11,Cookstown High,A,LLW,6,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210230
+11,Abbey Community College,A,LLW,112,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210313
+11,St Ronan's College,A,LLW,100,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420314
+11,St Mark's High,A,LLW,43,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230135
+11,Lisnagarvey High School,A,LLW,105,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210051
+11,St Joseph's High (Crossmaglen),A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230167
+11,St Columba's College,A,LLW,20,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230067
+11,St Patrick's High (Keady),A,LLW,48,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230187
+11,St Mary's Limavady,A,LLW,69,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230077
+11,St Ciaran's College,A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230152
+11,Belfast Boys' Model School,A,LLW,61,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210022
+11,St Patrick's Grammar (Armagh),A,LLW,23,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420268
+11,Dunluce School,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210222
+11,Malone College,A,LLW,59,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1260294
+11,St Louis' Grammar School,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420045
+11,St Joseph's College,A,LLW,23,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230275
+11,Belfast Model School for Girls,A,LLW,61,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210021
+11,Magherafelt High School,A,LLW,11,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210035
+11,St Kevin's College,A,LLW,11,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230322
+11,St Conor's College,A,LLW,9,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230318
+11,Breda Academy,A,LLW,14,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210316
+11,Dominican College,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3420068
+11,City of Armagh High School,A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210121
+11,St Patrick's College,A,LLW,27,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230234
+11,St Paul's High (Bessbrook),A,LLW,46,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230157
+11,Strabane Academy,A,LLW,31,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2410311
+11,St Benedict's College,A,LLW,20,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230308
+11,Coleraine College,A,LLW,20,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210300
+11,St Mary's Christian Brothers' Grammar School,A,LLW,12,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1420021
+11,Aughnacloy College,A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210153
+11,St John the Baptist College,A,LLW,30,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230321
+11,Mercy College,A,LLW,13,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230104
+11,St Fanchea's College,A,LLW,3,Collaboration with other school,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230099
+11,Nendrum College,A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210045
+11,St Patrick's & St Brigid's College,A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230122
+11,St Colm's High School (Twinbrook),A,ST,38,Own School,ICT,OCR Level 2 ITQ Certificate in IT User Skills (QCF),500/6743/6,4230223
+11,Blackwater Integrated College,A,ST,12,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,4260309
+11,Hazelwood Integrated College,A,ST,52,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,1260269
+11,St Colmcille's High School,A,ST,20,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,4230102
+11,Cookstown High,A,ST,39,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,5210230
+11,Carrickfergus Academy,A,ST,35,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,3210323
+11,Glengormley High School,A,ST,74,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,3210202
+11,Dromore High,A,ST,24,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,5210064
+11,St Columbanus' College,A,ST,54,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,4230107
+11,Bangor Academy & Sixth Form College,A,ST,41,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,4210296
+11,Nendrum College,A,ST,18,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210045
+11,Priory Integrated College,A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4250024
+11,Rathfriland High,A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210127
+11,Devenish College,A,ST,27,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2210312
+11,New-Bridge Integrated College,A,ST,45,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5260285
+11,Parkhall College,A,ST,15,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3250207
+11,Lisneal College,A,ST,66,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2210306
+11,Glastry College,A,ST,48,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210046
+11,Holy Trinity College,A,ST,65,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230278
+11,St Brigid's College (Derry),A,ST,21,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230225
+11,St Kevin's College,A,ST,11,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230322
+11,St Joseph's College (Coalisland),A,ST,17,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230192
+11,Lismore Comprehensive,A,ST,95,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230213
+11,Banbridge High,A,ST,69,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210047
+11,Edmund Rice College,A,ST,48,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3230203
+11,Dundonald High School,A,ST,39,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210262
+11,Ashfield Boys' High School,A,ST,129,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,1210015
+11,Sacred Heart College,A,ST,68,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230298
+11,St Mary's High School (Downpatrick),A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4230023
+11,St Joseph's Boys' High (Newry),A,ST,24,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230056
+11,Coleraine Grammar School,A,ST,35,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3420317
+11,De La Salle High School,A,ST,45,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4230224
+11,City of Armagh High School,A,ST,12,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210121
+11,St Mary's College (Irvinestown),A,ST,17,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230109
+11,Integrated College Dungannon,A,ST,44,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5260286
+11,Craigavon Senior High School,A,ST,154,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210282
+11,Lagan College,A,ST,34,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4260255
+11,Markethill High,A,ST,22,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210083
+11,St Louise's Comprehensive College,A,ST,16,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,1230053
+11,Fivemiletown College,A,ST,10,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210097
+11,St Patrick's College (Banbridge),A,ST,40,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230076
+11,Brownlow College,A,ST,20,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5250216
+11,St Patrick's College,A,ST,23,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3230084
+11,Strangford College,A,ST,57,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4260295
+11,Fort Hill Integrated College,A,ST,20,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4250072
+11,Abbey Community College,A,ST,38,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3210313
+12,St Patrick's Academy (Lisburn),A,LLW,14,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230165
+12,St Louis' Grammar School,A,LLW,19,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420045
+12,Larne High School,A,LLW,39,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210038
+12,Lisnagarvey High School,A,LLW,105,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210051
+12,Malone College,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1260294
+12,St Mark's High,A,LLW,46,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230135
+12,St Columba's College,A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230067
+12,St Mary's High (Newry),A,LLW,18,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230108
+12,Dromore High,A,LLW,46,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210064
+12,St Colman's High School,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230161
+12,St Paul's High (Bessbrook),A,LLW,33,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230157
+12,Drumglass High,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210231
+12,St Joseph's College,A,LLW,25,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230275
+12,St Genevieve's High,A,LLW,51,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230155
+12,St Mary's Limavady,A,LLW,62,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230077
+12,Magherafelt High School,A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210035
+12,Limavady High School,A,LLW,106,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2210302
+12,Ashfield Girls' High School,A,LLW,54,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210014
+12,Ulidia Integrated College,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3260299
+12,Dunluce School,A,LLW,33,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210222
+12,Holy Cross College,A,LLW,36,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230301
+12,Priory Integrated College,A,LLW,23,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4250024
+12,Blackwater Integrated College,A,LLW,15,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4260309
+12,St Joseph's High (Crossmaglen),A,LLW,10,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230167
+12,De La Salle College,A,LLW,8,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230182
+12,Cookstown High,A,LLW,12,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210230
+12,Abbey Community College,A,LLW,132,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210313
+12,St Ronan's College,A,LLW,90,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420314
+12,Belfast Boys' Model School,A,LLW,72,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210022
+12,Ballymoney High School,A,LLW,103,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210133
+12,St Mary's Christian Brothers' Grammar School,A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1420021
+12,Movilla High School,A,LLW,9,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210012
+12,St Joseph's Boys' School,A,LLW,51,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230131
+12,Lismore Comprehensive,A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230213
+12,Sacred Heart College,A,LLW,21,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230298
+12,Craigavon Senior High School,A,LLW,57,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210282
+12,Dean Maguirc College,A,LLW,47,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230138
+12,Blessed Trinity College,A,LLW,63,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230321
+12,St Ciaran's College,A,LLW,6,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230152
+12,Our Lady of Lourdes High School,A,LLW,18,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230075
+12,Saintfield High School,A,LLW,16,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210063
+12,St Patrick's College (Dungannon),A,LLW,25,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5230293
+12,Lagan College,A,LLW,13,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4260255
+12,Wellington College,A,LLW,16,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1410270
+12,St Joseph's College (Enniskillen),A,LLW,3,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230100
+12,All Saints College,A,LLW,90,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1230324
+12,St Patrick's College (Dungiven),A,LLW,22,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230144
+12,St Colmcille's High School,A,LLW,19,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4230102
+12,Rathfriland High,A,LLW,14,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210127
+12,Hazelwood Integrated College,A,LLW,27,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1260269
+12,St Patrick's Grammar (Armagh),A,LLW,16,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5420268
+12,Strabane Academy,A,LLW,35,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2410311
+12,Aughnacloy College,A,LLW,17,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210153
+12,City of Armagh High School,A,LLW,12,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,5210121
+12,St Kevin's College,A,LLW,13,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,2230322
+12,St Conor's College,A,LLW,23,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230318
+12,Coleraine College,A,LLW,11,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3210300
+12,Breda Academy,A,LLW,13,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4210316
+12,Dominican College,A,LLW,12,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3420068
+12,St Patrick's College,A,LLW,11,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230234
+12,St Benedict's College,A,LLW,16,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,3230308
+12,Fort Hill Integrated College,A,LLW,11,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,4250072
+12,Belfast Model School for Girls,A,LLW,128,Own School,ICT,OCN NI Level 2 Certificate in Information Technology Applications,601/8497/8,1210021
+12,St Patrick's & St Brigid's College,A,ST,20,Own School,ICT,OCR Level 2 Extended Certificate in IT User Skills (ITQ) (QCF),600/1062/9,2230122
+12,St Colm's High School (Twinbrook),A,ST,23,Own School,ICT,OCR Level 2 ITQ Certificate in IT User Skills (QCF),500/6743/6,4230223
+12,Mercy College,A,ST,39,Own School,ICT,OCR Level 2 ITQ Certificate in IT User Skills (QCF),500/6743/6,1230104
+12,St Benedict's College,A,ST,22,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,3230308
+12,Cookstown High,A,ST,46,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,5210230
+12,Blackwater Integrated College,A,ST,8,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,4260309
+12,Hazelwood Integrated College,A,ST,53,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,1260269
+12,Carrickfergus Academy,A,ST,37,Own School,ICT,Pearson BTEC Level 1 Level 2 First Certificate in Information and Creative Technology,600/6071/2,3210323
+12,Glengormley High School,A,ST,53,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,3210202
+12,Bangor Academy & Sixth Form College,A,ST,31,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,4210296
+12,St Columbanus' College,A,ST,54,Own School,ICT,Pearson BTEC Level 2 Certificate for IT Users (ITQ) (QCF),500/7832/X,4230107
+12,Ashfield Boys' High School,A,ST,114,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,1210015
+12,St Joseph's Boys' High (Newry),A,ST,12,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230056
+12,St Mary's College (Derry),A,ST,9,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230081
+12,St Mary's High School (Downpatrick),A,ST,17,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4230023
+12,St Brigid's College (Derry),A,ST,15,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230225
+12,Rathfriland High,A,ST,17,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210127
+12,St Kevin's College,A,ST,6,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230322
+12,Lismore Comprehensive,A,ST,88,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230213
+12,City of Armagh High School,A,ST,15,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210121
+12,Banbridge High,A,ST,18,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210047
+12,Sacred Heart College,A,ST,39,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230298
+12,Nendrum College,A,ST,24,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210045
+12,Devenish College,A,ST,29,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2210312
+12,Integrated College Dungannon,A,ST,44,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5260286
+12,Dundonald High School,A,ST,36,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210262
+12,Edmund Rice College,A,ST,52,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3230203
+12,De La Salle High School,A,ST,39,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4230224
+12,New-Bridge Integrated College,A,ST,35,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5260285
+12,Parkhall College,A,ST,23,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3250207
+12,Fivemiletown College,A,ST,16,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210097
+12,Lisneal College,A,ST,64,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2210306
+12,St Mary's College (Irvinestown),A,ST,19,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230109
+12,Glastry College,A,ST,43,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4210046
+12,Lagan College,A,ST,31,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4260255
+12,Coleraine Grammar School,A,ST,17,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3420317
+12,Holy Trinity College,A,ST,83,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230278
+12,St Joseph's College (Coalisland),A,ST,11,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230192
+12,Craigavon Senior High School,A,ST,158,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210282
+12,St Patrick's College,A,ST,31,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3230084
+12,St Patrick's College,A,ST,22,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,3230234
+12,St Patrick's High (Keady),A,ST,20,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230187
+12,St Louise's Comprehensive College,A,ST,8,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,1230053
+12,Markethill High,A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5210083
+12,St Patrick's College (Banbridge),A,ST,55,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230076
+12,St Joseph's College (Enniskillen),A,ST,7,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,2230100
+12,Strangford College,A,ST,18,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,4260295
+12,St John the Baptist College,A,ST,18,Own School,ICT,Pearson Edexcel BTEC Level 1 Level 2 First Award in Information and Creative Technology,600/4789/6,5230321
+13,St Patrick's Grammar (Armagh),A,ST,12,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420268
+13,St Patrick's College (Dungannon),A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5230293
+13,Slemish College,A,ST,6,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,3260289
+13,St Ciaran's College,A,ST,10,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5230152
+13,Friends' School,A,ST,4,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,4420050
+13,"Royal School, Armagh",A,ST,9,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420263
+13,Limavady Grammar School,A,ST,10,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,2410048
+13,St Louise's Comprehensive College,A,ST,5,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,1230053
+13,Christian Brothers Grammar (Omagh),A,ST,11,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,2420064
+13,St Patrick's College,A,ST,4,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,3230234
+13,Belfast Royal Academy,A,ST,14,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,1420028
+13,Loreto College,A,ST,8,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,3420034
+13,St Patrick's High (Keady),A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5230187
+13,Lagan College,A,ST,10,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,4260255
+13,Lumen Christi College,A,ST,10,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,2420287
+13,Coleraine Grammar School,A,ST,13,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,3420317
+13,Wallace High School,A,ST,12,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,4420051
+13,Banbridge Academy,A,ST,17,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5410013
+13,St Patrick's Academy (Dungannon),A,ST,21,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420304
+13,St Mary's Grammar School,A,ST,4,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,3420080
+13,Loreto Grammar,A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,2420065
+13,Our Lady's Grammar School,A,ST,5,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420060
+13,Shimna College,A,ST,6,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,4260281
+13,Down High School,A,ST,11,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,4410085
+13,Grosvenor Grammar School,A,ST,19,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,1410079
+13,St Ronan's College,A,ST,14,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420314
+13,Colaiste Feirste,A,ST,5,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,1240291
+13,Dromore High,A,ST,4,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5210064
+13,St Colman's College,A,ST,7,Own School,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5420062
+13,St Catherine's College,A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,5230218
+13,St Malachy's College,A,ST,4,Collaboration with other school,ICT,CCEA Level 3 Advanced Subsidiary GCE in Software Systems Development,601/8913/7,1420030
+13,Breda Academy,A,LLW,17,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,4210316
+13,St Malachy's High School (Castlewellan),A,LLW,4,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,4230211
+13,St Genevieve's High,A,LLW,31,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,1230155
+13,De La Salle College,A,LLW,10,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,1230182
+13,St Patrick's College,A,ES,16,Own School,ICT,OCR Level 3 Cambridge Technical Diploma in IT (VRQ),601/7101/7,3230084
+13,Strabane Academy,A,ST,9,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,2410311
+13,St Joseph's College,A,ST,11,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,1230275
+13,St Malachy's High School (Castlewellan),A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,4230211
+13,Lismore Comprehensive,A,ST,22,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,5230213
+13,Cullybackey College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,3210172
+13,St Paul's High (Bessbrook),A,ST,21,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,5230157
+13,Mercy College,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,1230104
+13,St Colman's High School,A,ST,16,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,4230161
+13,Sperrin Integrated College,A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3260303
+13,Strangford College,A,ST,19,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,4260295
+13,Fort Hill Integrated College,A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,4250072
+13,Ballycastle High School,A,ST,14,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3210124
+13,Cross and Passion College,A,ST,12,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3230227
+13,Christian Brothers Grammar (Omagh),A,ST,11,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2420064
+13,St Mary's Limavady,A,ST,41,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230077
+13,St Conor's College,A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230318
+13,Loreto College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3420034
+13,Parkhall College,A,ST,19,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3250207
+13,Carrickfergus Grammar School,A,ST,1,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3410098
+13,Assumption Grammar School,A,ST,3,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4420086
+13,Magherafelt High School,A,ST,14,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3210035
+13,Oakgrove Integrated College,A,ST,14,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2260276
+13,Limavady High School,A,ST,9,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2210302
+13,St Malachy's College,A,ST,22,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1420030
+13,St Pius X College,A,ST,32,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230168
+13,Ulidia Integrated College,A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3260299
+13,Blessed Trinity College,A,ST,41,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230321
+13,St Joseph's Grammar School,A,ST,22,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420073
+13,Lisneal College,A,ST,26,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2210306
+13,St Patrick's College (Dungiven),A,ST,20,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230144
+13,St Patrick's Grammar (Armagh),A,ST,20,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420268
+13,St Mary's High (Newry),A,ST,9,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5230108
+13,De La Salle High School,A,ST,15,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4230224
+13,St Louise's Comprehensive College,A,ST,30,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230053
+13,Edmund Rice College,A,ST,25,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230203
+13,Abbey Community College,A,ST,25,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3210313
+13,St Ronan's College,A,ST,31,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420314
+13,St Dominic's Grammar School for Girls,A,ST,7,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1420029
+13,St Cecilia's College,A,ST,20,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230188
+13,Carrickfergus Academy,A,ST,29,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3210323
+13,Dominican College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3420068
+13,St Mark's High,A,ST,28,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5230135
+13,North Coast Integrated College,A,ST,20,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3260290
+13,St Columb's College,A,ST,22,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2420054
+13,New-Bridge Integrated College,A,ST,12,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5260285
+13,Priory Integrated College,A,ST,15,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4250024
+13,All Saints College,A,ST,58,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230324
+13,Gaelcholaiste Dhoire,A,ST,5,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2240319
+13,St Joseph's Boys' School,A,ST,31,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230131
+13,Larne High School,A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Subsidiary Diploma in IT (QCF),600/4237/0,3210038
+13,Belfast Boys' Model School,A,ST,18,Own School,ICT,Pearson BTEC Level 3 National Diploma in Information Technology,603/0455/8,1210022
+13,Royal Belfast Academical Institution,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Diploma in Information Technology,603/0455/8,1420027
+13,Coleraine Grammar School,A,ST,22,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3420317
+13,Integrated College Dungannon,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5260286
+13,Slemish College,A,ST,7,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3260289
+13,St Columbanus' College,A,ST,21,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4230107
+13,Holy Trinity College,A,ST,43,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230278
+13,Down High School,A,ST,8,FE,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4410085
+13,Dromore High,A,ST,16,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210064
+13,St Patrick's College (Banbridge),A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230076
+13,Cookstown High,A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210230
+13,Christian Brothers' Abbey Grammar School,A,ST,8,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5420059
+13,Dunclug College,A,ST,11,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3210208
+13,Victoria College,A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420264
+13,Lagan College,A,ST,12,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4260255
+13,Bangor Academy & Sixth Form College,A,ST,59,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210296
+13,Hazelwood Integrated College,A,ST,30,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1260269
+13,Ashfield Girls' High School,A,ST,12,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1210014
+13,St Louis' Grammar School,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3420010
+13,Banbridge High,A,ST,7,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210047
+13,Glastry College,A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210046
+13,Antrim Grammar School,A,ST,14,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3410209
+13,Castlederg High,A,ST,4,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2210065
+13,Glengormley High School,A,ST,20,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3210202
+13,St Ciaran's College,A,ST,26,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230152
+13,Foyle College,A,ST,4,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2420229
+13,Belfast Boys' Model School,A,ST,21,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1210022
+13,Cambridge House Grammar School,A,ST,4,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3410297
+13,Breda Academy,A,ST,14,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210316
+13,St Mary's Christian Brothers' Grammar School,A,ST,14,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420021
+13,Bloomfield Collegiate School,A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1410315
+13,Sacred Heart College,A,ST,24,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2230298
+13,St Michael's Grammar (Enniskillen),A,ST,18,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2420043
+13,St Patrick's Grammar (Downpatrick),A,ST,42,Collaboration with other school,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4420088
+13,Ashfield Boys' High School,A,ST,39,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1210015
+13,St Patrick's College (Dungannon),A,ST,14,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230293
+13,St Killian's College,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3230310
+13,Lisnagarvey High School,A,ST,20,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210051
+13,De La Salle High School,A,ST,1,Collaboration with other school,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4230224
+13,St Patrick's High (Keady),A,ST,6,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230187
+13,Campbell College,A,ST,7,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420020
+13,De La Salle College,A,ST,16,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1230182
+13,Malone College,A,ST,10,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1260294
+13,St Joseph's College (Enniskillen),A,ST,2,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2230100
+13,Royal Belfast Academical Institution,A,ST,11,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420027
+13,Devenish College,A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2210312
+13,Wellington College,A,ST,6,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,1410270
+13,St Joseph's College (Enniskillen),A,ST,2,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2230100
+13,St Mary's College (Derry),A,ST,10,Own School,ICT,WJEC Level 3 Advanced Subsidiary GCE in Applied ICT,603/2151/9,2230081
+13,Larne Grammar School,A,ST,55,Own School,ICT,WJEC Level 3 Advanced Subsidiary GCE in Information and Communication Technology,603/2153/2,3420046
+13,St Brigid's College (Derry),A,ST,15,Own School,ICT,WJEC Level 3 Advanced Subsidiary GCE in Information and Communication Technology,603/2153/2,2230225
+14,Belfast Royal Academy,A,ST,11,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,1420028
+14,St Patrick's College (Dungannon),A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5230293
+14,Lagan College,A,ST,8,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,4260255
+14,Shimna College,A,ST,6,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,4260281
+14,Friends' School,A,ST,12,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,4420050
+14,Down High School,A,ST,12,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,4410085
+14,Limavady Grammar School,A,ST,11,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,2410048
+14,Coleraine Grammar School,A,ST,7,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,3420317
+14,St Ronan's College,A,ST,7,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420314
+14,St Patrick's Grammar (Armagh),A,ST,7,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420268
+14,Wallace High School,A,ST,14,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,4420051
+14,Banbridge Academy,A,ST,16,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5410013
+14,Grosvenor Grammar School,A,ST,14,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,1410079
+14,"Royal School, Armagh",A,ST,8,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420263
+14,Dromore High,A,ST,9,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5210064
+14,St Patrick's Academy (Dungannon),A,ST,11,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420304
+14,St Patrick's College (Banbridge),A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5230076
+14,St Colman's College,A,ST,3,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420062
+14,Lumen Christi College,A,ST,15,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,2420287
+14,Christian Brothers Grammar (Omagh),A,ST,9,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,2420064
+14,Slemish College,A,ST,14,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,3260289
+14,St Louise's Comprehensive College,A,ST,4,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,1230053
+14,Our Lady's Grammar School,A,ST,5,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5420060
+14,Loreto College,A,ST,7,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,3420034
+14,St Mary's Grammar School,A,ST,5,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,3420080
+14,Colaiste Feirste,A,ST,9,Own School,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,1240291
+14,St Patrick's High (Keady),A,ST,1,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5230187
+14,St Catherine's College,A,ST,2,Collaboration with other school,ICT,CCEA Level 3 Advanced GCE in Software Systems Development,601/8914/9,5230218
+14,Breda Academy,A,LLW,12,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,4210316
+14,St Malachy's High School (Castlewellan),A,LLW,8,Own School,ICT,OCN NI Level 3 Diploma in Information Technology Applications,601/8844/3,4230211
+14,St Genevieve's High,A,ST,24,Own School,ICT,OCR Level 3 Cambridge Technical Diploma in IT (QCF),600/4231/X,1230155
+14,St Patrick's College,A,ST,7,Own School,ICT,OCR Level 3 Cambridge Technical Diploma in IT (QCF),600/4231/X,3230084
+14,St Joseph's Grammar School,A,ST,17,Own School,ICT,OCR Level 3 Cambridge Technical Diploma in IT (QCF),600/4231/X,5420073
+14,St Malachy's High School (Castlewellan),A,ST,5,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,4230211
+14,St Joseph's College,A,ST,20,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,1230275
+14,Cullybackey College,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,3210172
+14,Larne High School,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,3210038
+14,Strabane Academy,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,2410311
+14,Oakgrove Integrated College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,2260276
+14,Mercy College,A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Extended Certificate in IT,601/7098/0,1230104
+14,Belfast Model School for Girls,A,ST,31,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,1210021
+14,Ballycastle High School,A,ST,17,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3210124
+14,Cross and Passion College,A,ST,11,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3230227
+14,Strangford College,A,ST,15,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,4260295
+14,Fort Hill Integrated College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,4250072
+14,Magherafelt High School,A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,3210035
+14,Malone College,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT,601/7099/2,1260294
+14,St Malachy's College,A,ST,17,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1420030
+14,St Killian's College,A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230310
+14,St Paul's High (Bessbrook),A,ST,15,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5230157
+14,North Coast Integrated College,A,ST,12,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3260290
+14,St Patrick's Grammar (Downpatrick),A,ST,41,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4420088
+14,Blessed Trinity College,A,ST,46,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230321
+14,St Patrick's Grammar (Armagh),A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420268
+14,Regent House,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4410063
+14,Parkhall College,A,ST,16,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3250207
+14,St Ronan's College,A,ST,22,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420314
+14,Carrickfergus Academy,A,ST,27,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3210323
+14,Sperrin Integrated College,A,ST,4,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3260303
+14,St Mark's High,A,ST,38,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5230135
+14,St Pius X College,A,ST,25,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230168
+14,St Columb's College,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2420054
+14,St Mary's High School (Downpatrick),A,ST,11,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4230023
+14,St Mary's Limavady,A,ST,2,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230077
+14,All Saints College,A,ST,34,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230324
+14,New-Bridge Integrated College,A,ST,14,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5260285
+14,St Louis' Grammar School,A,ST,18,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5420045
+14,Christian Brothers Grammar (Omagh),A,ST,10,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2420064
+14,St Louise's Comprehensive College,A,ST,33,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230053
+14,De La Salle College,A,ST,32,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1230182
+14,Assumption Grammar School,A,ST,7,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4420086
+14,St Mary's High (Newry),A,ST,13,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,5230108
+14,St Dominic's Grammar School for Girls,A,ST,7,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,1420029
+14,Edmund Rice College,A,ST,30,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230203
+14,St Patrick's College (Dungiven),A,ST,13,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230144
+14,St Cecilia's College,A,ST,25,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2230188
+14,Carrickfergus Grammar School,A,ST,1,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3410098
+14,St Colman's High School,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4230161
+14,Loreto College,A,ST,19,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3420034
+14,St Conor's College,A,ST,8,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3230318
+14,De La Salle High School,A,ST,4,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4230224
+14,Priory Integrated College,A,ST,19,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4250024
+14,Abbey Community College,A,ST,24,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,3210313
+14,Bangor Academy & Sixth Form College,A,ST,61,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,4210296
+14,Lisneal College,A,ST,11,Own School,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2210306
+14,Limavady High School,A,ST,1,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2210302
+14,Gaelcholaiste Dhoire,A,ST,1,Collaboration with other school,ICT,OCR Level 3 Cambridge Technical Introductory Diploma in IT (QCF),600/4623/5,2240319
+14,Royal Belfast Academical Institution,A,ST,7,Own School,ICT,Pearson BTEC Level 3 Diploma in IT (QCF),500/9150/5,1420027
+14,Belfast Boys' Model School,A,ST,16,Own School,ICT,Pearson BTEC Level 3 National Diploma in Information Technology,603/0455/8,1210022
+14,Banbridge High,A,ST,6,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210047
+14,Down High School,A,ST,10,FE,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4410085
+14,Castlederg High,A,ST,3,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2210065
+14,Coleraine Grammar School,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3420317
+14,Cookstown High,A,ST,8,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210230
+14,St Ciaran's College,A,ST,11,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230152
+14,Dunclug College,A,ST,19,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3210208
+14,St Louis' Grammar School,A,ST,16,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3420010
+14,St Columbanus' College,A,ST,12,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4230107
+14,Bangor Grammar School,A,ST,4,FE,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4420015
+14,Glastry College,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210046
+14,Antrim Grammar School,A,ST,12,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3410209
+14,Glengormley High School,A,ST,16,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3210202
+14,Cambridge House Grammar School,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3410297
+14,Christian Brothers' Abbey Grammar School,A,ST,17,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5420059
+14,Ashfield Girls' High School,A,ST,17,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1210014
+14,Lagan College,A,ST,18,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4260255
+14,Newry High,A,ST,2,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5210186
+14,St Patrick's College (Banbridge),A,ST,9,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,5230076
+14,Victoria College,A,ST,10,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420264
+14,Slemish College,A,ST,15,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,3260289
+14,Foyle College,A,ST,13,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2420229
+14,Breda Academy,A,ST,15,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,4210316
+14,Hazelwood Integrated College,A,ST,30,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1260269
+14,St Mary's Christian Brothers' Grammar School,A,ST,11,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1420021
+14,Belfast Boys' Model School,A,ST,8,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,1210022
+14,St Michael's Grammar (Enniskillen),A,ST,17,Own School,ICT,Pearson BTEC Level 3 National Extended Certificate in Information Technology,601/7575/8,2420043
+14,Wellington College,A,ST,8,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,1410270
+14,Ashfield Boys' High School,A,ST,37,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,1210015
+14,St Joseph's Boys' School,A,ST,27,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2230131
+14,Lisnagarvey High School,A,ST,19,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,4210051
+14,Ulidia Integrated College,A,ST,11,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,3260299
+14,St Mary's College (Derry),A,ST,2,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2230081
+14,Royal Belfast Academical Institution,A,ST,16,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,1420027
+14,Devenish College,A,ST,16,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2210312
+14,St Joseph's College (Enniskillen),A,ST,6,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2230100
+14,Sacred Heart College,A,ST,27,Own School,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2230298
+14,Erne Integrated College,A,ST,2,Collaboration with other school,ICT,Pearson Edexcel BTEC Level 3 Subsidiary Diploma In IT (QCF),500/9147/5,2260280
+14,St Brigid's College (Derry),A,ST,11,Own School,ICT,WJEC Level 3 Advanced GCE in Information and Communication Technology,603/2152/0,2230225
+14,Larne Grammar School,A,ST,39,Own School,ICT,WJEC Level 3 Advanced GCE in Information and Communication Technology,603/2152/0,3420046
+11,Sullivan Upper School,A,ST,25,Own School,Computer Studies,AQA Level 1 Level 2 GCSE (9-1) in Computer Science,601/8301/9,4420044
+11,St Patrick's Grammar (Downpatrick),A,ST,20,Own School,Computer Studies,AQA Level 1 Level 2 GCSE (9-1) in Computer Science,601/8301/9,4420088
+11,Cross and Passion College,A,ST,9,Collaboration with other school,Computer Studies,AQA Level 1 Level 2 GCSE (9-1) in Computer Science,601/8301/9,3230227
+11,"Royal School, Dungannon",A,ST,27,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5420260
+11,Banbridge Academy,A,ST,27,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5410013
+11,Belfast Model School for Girls,A,ST,107,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1210021
+11,St Colman's College,A,ST,15,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5420062
+11,"Our Lady and St Patrick's College, Knock",A,ST,26,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,4420259
+11,St Louis' Grammar School,A,ST,32,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,3420010
+11,Belfast High School,A,ST,23,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,3420077
+11,Belfast Royal Academy,A,ST,58,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1420028
+11,St Mary's Christian Brothers' Grammar School,A,ST,17,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1420021
+11,Rathmore,A,ST,45,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1420095
+11,St Killian's College,A,ST,16,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,3230310
+11,St Malachy's College,A,ST,26,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,1420030
+11,Lagan College,A,ST,22,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,4260255
+11,Antrim Grammar School,A,ST,21,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,3410209
+11,St Malachy's High School (Castlewellan),A,ST,14,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,4230211
+12,Sullivan Upper School,A,ST,40,Own School,Computer Studies,AQA Level 1 Level 2 GCSE (9-1) in Computer Science,601/8301/9,4420044
+12,Ballycastle High School,A,ST,16,Collaboration with other school,Computer Studies,AQA Level 1 Level 2 GCSE (9-1) in Computer Science,601/8301/9,3210124
+12,Bangor Grammar School,A,ST,24,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,4420015
+12,Rathmore,A,ST,35,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1420095
+12,"Royal School, Dungannon",A,ST,17,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5420260
+12,Banbridge Academy,A,ST,25,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5410013
+12,St Colman's College,A,ST,11,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,5420062
+12,"Our Lady and St Patrick's College, Knock",A,ST,29,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,4420259
+12,St Louis' Grammar School,A,ST,21,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,3420010
+12,Belfast High School,A,ST,19,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,3420077
+12,Belfast Royal Academy,A,ST,52,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1420028
+12,Belfast Model School for Girls,A,ST,35,Own School,Computer Studies,OCR Level 1 Level 2 GCSE (9-1) in Computer Science,601/8355/X,1210021
+12,St Malachy's College,A,ST,40,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,1420030
+12,Antrim Grammar School,A,ST,16,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,3410209
+12,Lagan College,A,ST,15,Own School,Computer Studies,WJEC Eduqas Level 1 Level 2 GCSE (9-1) in Computer Science,601/8291/X,4260255
+13,Methodist College,G,ST,8,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,1420022
+13,Sullivan Upper School,G,ST,12,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,4420044
+13,Dalriada School,G,ST,15,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,3420012
+13,"Royal School, Dungannon",G,ST,5,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,5420260
+13,St Mary's Christian Brothers' Grammar School,G,ST,10,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,1420021
+13,Bangor Grammar School,G,ST,12,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,4420015
+13,Christian Brothers' Abbey Grammar School,G,ST,9,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,5420059
+13,Portadown College,G,ST,8,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,5410067
+13,Belfast High School,G,ST,7,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,3420077
+13,St Louis' Grammar School,G,ST,17,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,3420010
+13,Royal Belfast Academical Institution,G,ST,13,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,1420027
+13,Ballyclare High School (Grammar),G,ST,5,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,3410008
+13,Antrim Grammar School,G,ST,5,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,3410209
+13,"Our Lady and St Patrick's College, Knock",G,ST,12,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,4420259
+13,Rathmore,G,ST,15,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,1420095
+13,Assumption Grammar School,G,ST,5,Own School,Computer Studies,WJEC Level 3 Advanced Subsidiary GCE in Computer Science,601/5391/X,4420086
+14,Sullivan Upper School,G,ST,4,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,4420044
+14,Dalriada School,G,ST,3,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,3420012
+14,St Patrick's Grammar (Downpatrick),G,ST,3,Own School,Computer Studies,AQA Level 3 Advanced GCE in Computer Science,601/4569/9,4420088
+14,"Royal School, Dungannon",G,ST,4,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,5420260
+14,St Mary's Christian Brothers' Grammar School,G,ST,19,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,1420021
+14,Bangor Grammar School,G,ST,7,Own School,Computer Studies,OCR Level 3 Advanced GCE in Computer Science,601/4911/5,4420015
+14,Antrim Grammar School,G,ST,1,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,3410209
+14,Christian Brothers' Abbey Grammar School,G,ST,9,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,5420059
+14,Assumption Grammar School,G,ST,4,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,4420086
+14,"Our Lady and St Patrick's College, Knock",G,ST,16,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,4420259
+14,Ballyclare High School (Grammar),G,ST,7,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,3410008
+14,Portadown College,G,ST,12,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,5410067
+14,St Louis' Grammar School,G,ST,11,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,3420010
+14,Rathmore,G,ST,8,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,1420095
+14,Campbell College,G,ST,4,Collaboration with other school,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,1420020
+14,Royal Belfast Academical Institution,G,ST,13,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,1420027
+14,Belfast High School,G,ST,5,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,3420077
+14,Strathearn School,G,ST,1,Collaboration with other school,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,1420089
+14,Aquinas Grammar,G,ST,10,Own School,Computer Studies,WJEC Level 3 Advanced GCE in Computer Science,601/5345/3,1420277
