@@ -1,0 +1,308 @@
+id,id_raw,name,city,county,postcode,status,type,lat,lon
+1210014,121-0014,Ashfield Girls' High School,BELFAST,County Down,BT4 2LY,Controlled,Secondary,54.60886955,-5.8640664
+1210015,121-0015,Ashfield Boys' High School,BELFAST,County Down,BT4 2LY,Controlled,Secondary,54.60886955,-5.8640664
+1210021,121-0021,Belfast Model School For Girls,BELFAST,County Antrim,BT14 6NQ,Controlled,Secondary,54.624811,-5.9557836
+1210022,121-0022,Belfast Boys' Model School,BELFAST,County Antrim,BT14 6RB,Controlled,Secondary,54.6324042,-5.9611085
+1230053,123-0053,St Louise's Comprehensive College,BELFAST,County Antrim,BT12 6EN,Roman Catholic Maintained,Secondary,54.58714263,-5.969967625
+1230104,123-0104,Mercy College Belfast ,BELFAST,County Antrim,BT14 7QR,Roman Catholic Maintained,Secondary,54.6236798,-5.9719601
+1230155,123-0155,St Genevieve's High School,BELFAST,County Antrim,BT11 9JP,Roman Catholic Maintained,Secondary,54.57072303,-6.000961
+1230182,123-0182,De La Salle College,BELFAST,County Antrim,BT11 8LT,Roman Catholic Maintained,Secondary,54.5769887,-5.9979728
+1230275,123-0275,St Joseph's College,BELFAST,County Down,BT6 0BY,Roman Catholic Maintained,Secondary,54.57648405,-5.90925365
+1230321,123-0321,Blessed Trinity College ,BELFAST,County Antrim,BT15 4DZ,Roman Catholic Maintained,Secondary,54.6311881,-5.9368109
+1230324,123-0324,All Saints College,BELFAST,County Antrim,BT11 8BW,Roman Catholic Maintained,Secondary,54.5794758,-5.9983462
+1240291,124-0291,Coláiste Feirste,BELFAST,County Antrim,BT12 7PY,Other Maintained,Secondary,54.591508,-5.9717564
+1260269,126-0269,Hazelwood College,NEWTOWNABBEY,County Antrim,BT36 7ES,Grant Maintained Integrated,Secondary,54.6469062,-5.9271524
+1260294,126-0294,Malone Integrated College,BELFAST,County Antrim,BT10 0JB,Grant Maintained Integrated,Secondary,54.56615283,-5.9836321
+1336548,133-6548,St Gerard’s School and Support Services,BELFAST,County Antrim,BT10 0NB,Roman Catholic Maintained,Special,54.5618198,-5.9965289
+2210065,221-0065,Castlederg High School,CASTLEDERG,County Tyrone,BT81 7RU,Controlled,Secondary,54.7010513,-7.5964306
+2210125,221-0125,Omagh High School,OMAGH,County Tyrone,BT79 0EQ,Controlled,Secondary,54.5994635,-7.2881731
+2210302,221-0302,Limavady High School,LIMAVADY,County Londonderry,BT49 9AN,Controlled,Secondary,55.04835335,-6.9471328
+2210306,221-0306,Lisneal College,LONDONDERRY,County Londonderry,BT47 5FQ,Controlled,Secondary,54.995923,-7.2741978
+2210312,221-0312,Devenish College,ENNISKILLEN,County Fermanagh,BT74 6JL,Controlled,Secondary,54.3393607,-7.6322592
+2230077,223-0077,St Mary's Limavady,LIMAVADY,County Londonderry,BT49 9AN,Roman Catholic Maintained,Secondary,55.04835335,-6.9471328
+2230081,223-0081,St Mary's College,LONDONDERRY,County Londonderry,BT48 0AN,Roman Catholic Maintained,Secondary,55.0117687,-7.3282809
+2230099,223-0099,St Fanchea's College,ENNISKILLEN,County Fermanagh,BT74 4AD,Roman Catholic Maintained,Secondary,54.3539991,-7.6158703
+2230100,223-0100,St Joseph's College,ENNISKILLEN,County Fermanagh,BT74 6DE,Roman Catholic Maintained,Secondary,54.35024593,-7.61924215
+2230109,223-0109,St Mary's College,ENNISKILLEN,County Fermanagh,BT94 1EL,Roman Catholic Maintained,Secondary,54.4708519,-7.6370494
+2230122,223-0122,St Patricks & St Brigids College,LONDONDERRY,County Londonderry,BT47 4HR,Roman Catholic Maintained,Secondary,54.91198989,-7.155766231
+2230131,223-0131,St Joseph's Boys' School,LONDONDERRY,County Londonderry,BT48 9NX,Roman Catholic Maintained,Secondary,55.0005368,-7.3373845
+2230138,223-0138,Dean Maguirc College,OMAGH,County Tyrone,BT79 9JR,Roman Catholic Maintained,Secondary,54.5935194,-7.0431764
+2230144,223-0144,St Patrick's College,LONDONDERRY,County Londonderry,BT47 4SE,Roman Catholic Maintained,Secondary,54.92184315,-6.9137609
+2230148,223-0148,St John's Business and Enterprise College,OMAGH,County Tyrone,BT78 3AL,Roman Catholic Maintained,Secondary,54.5146842,-7.4532603
+2230166,223-0166,St Aidan's High School,ENNISKILLEN,County Fermanagh,BT92 9LD,Roman Catholic Maintained,Secondary,54.1924051,-7.5643286
+2230188,223-0188,St Cecilia's  College,LONDONDERRY,County Londonderry,BT48 9PJ,Roman Catholic Maintained,Secondary,54.99467835,-7.33738005
+2230225,223-0225,St Brigid's College,LONDONDERRY,County Londonderry,BT48 8DU,Roman Catholic Maintained,Secondary,55.0262977,-7.3188467
+2230298,223-0298,Sacred Heart College,OMAGH,County Tyrone,BT78 1LG,Roman Catholic Maintained,Secondary,54.5951746,-7.306494
+2230301,223-0301,Holy Cross College,STRABANE,County Tyrone,BT82 9EF,Roman Catholic Maintained,Secondary,54.8141739,-7.47414345
+2230322,223-0322,St Kevin's College,BELLEEK,County Fermanagh,BT92 0LA,Roman Catholic Maintained,Secondary,54.26184845,-7.4523983
+2240319,224-0319,Gaelcholáiste Dhoire ,LONDONDERRY,County Londonderry,BT47 4LF,Other Maintained,Secondary,54.9245211,-6.9207353
+2260276,226-0276,Oakgrove Integrated College,LONDONDERRY,County Londonderry,BT47 6TG,Grant Maintained Integrated,Secondary,55.0245142,-7.2810061
+2260280,226-0280,Erne Integrated College,ENNISKILLEN,County Fermanagh,BT74 4FW,Grant Maintained Integrated,Secondary,54.36119075,-7.63895475
+2260283,226-0283,Drumragh Integrated College,OMAGH,County Tyrone,BT79 0GW,Grant Maintained Integrated,Secondary,54.58632785,-7.2726535
+3210035,321-0035,Magherafelt High School,MAGHERAFELT,County Londonderry,BT45 6AF,Controlled,Secondary,54.7504413,-6.6111809
+3210038,321-0038,Larne High School,LARNE,County Antrim,BT40 1NT,Controlled,Secondary,54.8588187,-5.8184463
+3210124,321-0124,Ballycastle High School,BALLYCASTLE,County Antrim,BT54 6LD,Controlled,Secondary,55.2040558,-6.2498765
+3210133,321-0133,Ballymoney High School,BALLYMONEY,County Antrim,BT53 7AN,Controlled,Secondary,55.068488,-6.5041532
+3210134,321-0134,Ballyclare Secondary School,BALLYCLARE,County Antrim,BT39 9BG,Controlled,Secondary,54.75113853,-6.004598433
+3210172,321-0172,Cullybackey College,BALLYMENA,County Antrim,BT42 1BP,Controlled,Secondary,54.8853,-6.352996
+3210202,321-0202,Glengormley High School,NEWTOWNABBEY,County Antrim,BT36 5HP,Controlled,Secondary,54.6786788,-5.9697679
+3210208,321-0208,Dunclug College,BALLYMENA,County Antrim,BT43 6SU,Controlled,Secondary,54.8795361,-6.27584945
+3210222,321-0222,Dunluce School,BUSHMILLS,County Antrim,BT57 8QQ,Controlled,Secondary,55.2048863,-6.5304006
+3210300,321-0300,Coleraine College,COLERAINE,County Londonderry,BT51 3LR,Controlled,Secondary,55.1331721,-6.6846506
+3210313,321-0313,Abbey Community College ,NEWTOWNABBEY,County Antrim,BT37 0EA,Controlled,Secondary,54.6900506,-5.9188844
+3210323,321-0323,Carrickfergus Academy ,CARRICKFERGUS,County Antrim,BT38 7QX,Controlled,Secondary,54.7299887,-5.7896327
+3230075,323-0075,Our Lady of Lourdes High School,BALLYMONEY,County Antrim,BT53 6JX,Roman Catholic Maintained,Secondary,55.0666454,-6.5202978
+3230084,323-0084,St Patrick's College,BALLYMENA,County Antrim,BT43 7DZ,Roman Catholic Maintained,Secondary,54.8756832,-6.266031
+3230132,323-0132,St Colm's High School Draperstown,DRAPERSTOWN,County Londonderry,BT45 7AF,Roman Catholic Maintained,Secondary,54.79375943,-6.778399
+3230168,323-0168,St Pius X College,MAGHERAFELT,County Londonderry,BT45 6HQ,Roman Catholic Maintained,Secondary,54.749812,-6.6166634
+3230203,323-0203,Edmund Rice College,NEWTOWNABBEY,County Antrim,BT36 7AU,Roman Catholic Maintained,Secondary,54.66440095,-5.96881405
+3230227,323-0227,Cross and Passion College,BALLYCASTLE,County Antrim,BT54 6LA,Roman Catholic Maintained,Secondary,55.202932,-6.2546791
+3230234,323-0234,"St Patrick's College, Maghera",MAGHERA,County Londonderry,BT46 5BN,Roman Catholic Maintained,Secondary,54.8465196,-6.689106
+3230308,323-0308,St Benedict's College,RANDALSTOWN,County Antrim,BT41 2AF,Roman Catholic Maintained,Secondary,54.75108635,-6.3093713
+3230310,323-0310,ST KILLIAN'S COLLEGE,BALLYMENA,County Antrim,BT44 0JS,Roman Catholic Maintained,Secondary,55.0434083,-5.9680344
+3230318,323-0318,St Conor's College,PORTGLENONE,County Londonderry,BT44 8NN,Roman Catholic Maintained,Secondary,54.9105682,-6.5327665
+3250149,325-0149,Crumlin Integrated College,CRUMLIN,County Antrim,BT29 4LA,Controlled Integrated,Secondary,54.61792618,-6.2230845
+3250207,325-0207,Parkhall Integrated College,ANTRIM,County Antrim,BT41 1AF,Controlled Integrated,Secondary,54.72175337,-6.212335467
+3260289,326-0289,Slemish College,BALLYMENA,County Antrim,BT42 3HA,Grant Maintained Integrated,Secondary,54.8544828,-6.260860767
+3260290,326-0290,North Coast Integrated College,COLERAINE,County Londonderry,BT52 2NU,Grant Maintained Integrated,Secondary,55.1422649,-6.6520041
+3260299,326-0299,Ulidia Integrated College,CARRICKFERGUS,County Antrim,BT38 7JL,Grant Maintained Integrated,Secondary,54.73027715,-5.7975757
+3260303,326-0303,Sperrin Integrated College,MAGHERAFELT,County Londonderry,BT45 6NR,Grant Maintained Integrated,Secondary,54.7583537,-6.5935757
+4210012,421-0012,Movilla High School,NEWTOWNARDS,County Down,BT23 7HA,Controlled,Secondary,54.5954006,-5.6826616
+4210029,421-0029,The High School Ballynahinch,BALLYNAHINCH,County Down,BT24 8EH,Controlled,Secondary,54.4100863,-5.894033
+4210045,421-0045,Nendrum College,NEWTOWNARDS,County Down,BT23 5BX,Controlled,Secondary,54.5530797,-5.74360235
+4210046,421-0046,Glastry College,NEWTOWNARDS,County Down,BT22 1DQ,Controlled,Secondary,54.4907828,-5.46947195
+4210051,421-0051,Lisnagarvey High School,LISBURN,County Antrim,BT28 1HN,Controlled,Secondary,54.5050311,-6.0595326
+4210063,421-0063,Saintfield High School,SAINTFIELD,County Down,BT24 7BB,Controlled,Secondary,54.4642213,-5.8294007
+4210201,421-0201,Laurelhill Community College,LISBURN,County Antrim,BT28 2UH,Controlled,Secondary,54.5205116,-6.07046645
+4210262,421-0262,Dundonald High School,BELFAST,County Down,BT16 1TH,Controlled,Secondary,54.5968698,-5.7906077
+4210296,421-0296,Bangor Academy and 6th Form College,BANGOR,County Down,BT20 4TB,Controlled,Secondary,54.6574085,-5.6648293
+4210316,421-0316,Breda Academy,BELFAST,County Down,BT8 6PY,Controlled,Secondary,54.554275,-5.9150669
+4230023,423-0023,St Mary's High School,DOWNPATRICK,County Down,BT30 6JQ,Roman Catholic Maintained,Secondary,54.3223378,-5.7079508
+4230067,423-0067,St Columba's College,NEWTOWNARDS,County Down,BT22 1RB,Roman Catholic Maintained,Secondary,54.3843831,-5.538953
+4230102,423-0102,St Colmcille's High School,CROSSGAR,County Down,BT30 9EY,Roman Catholic Maintained,Secondary,54.3970318,-5.7526792
+4230107,423-0107,St Columbanus' College,BANGOR,County Down,BT20 5PU,Roman Catholic Maintained,Secondary,54.6604692,-5.6335583
+4230161,423-0161,St Colman's High School & Sixth Form College ,BALLYNAHINCH,County Down,BT24 8XR,Roman Catholic Maintained,Secondary,54.4047163,-5.8879972
+4230165,423-0165,St Patrick's Academy,LISBURN,County Antrim,BT28 1TD,Roman Catholic Maintained,Secondary,54.5093276,-6.0681946
+4230211,423-0211,St Malachy's High School,CASTLEWELLAN,County Down,BT31 9AG,Roman Catholic Maintained,Secondary,54.25703405,-5.9477118
+4230223,423-0223,St Colm's High School,BELFAST,County Antrim,BT17 0BT,Roman Catholic Maintained,Secondary,54.5511151,-6.0179416
+4230224,423-0224,De La Salle High School,DOWNPATRICK,County Down,BT30 6JR,Roman Catholic Maintained,Secondary,54.3308594,-5.7048655
+4250024,425-0024,Priory College,HOLYWOOD,County Down,BT18 9ER,Controlled Integrated,Secondary,54.6377449,-5.8345381
+4250072,425-0072,Fort Hill Integrated College,LISBURN,County Antrim,BT27 4TL,Controlled Integrated,Secondary,54.5165242,-6.0317566
+4260255,426-0255,Lagan College,BELFAST,County Down,BT8 6SA,Grant Maintained Integrated,Secondary,54.5612021,-5.885379
+4260281,426-0281,Shimna Integrated College,NEWCASTLE,County Down,BT33 0HD,Grant Maintained Integrated,Secondary,54.20234943,-5.894237933
+4260295,426-0295,Strangford Integrated College,CARROWDORE,County Down,BT22 2GB,Grant Maintained Integrated,Secondary,54.5796889,-5.5529548
+4260309,426-0309,Blackwater Integrated College,DOWNPATRICK,County Down,BT30 6SG,Grant Maintained Integrated,Secondary,54.3389846,-5.7160663
+5210016,521-0016,Kilkeel High School,NEWRY,County Down,BT34 4BP,Controlled,Secondary,54.0587898,-5.9999973
+5210025,521-0025,Newtownhamilton High School,NEWRY,County Armagh,BT35 0DG,Controlled,Secondary,54.1964979,-6.5793492
+5210043,521-0043,Clounagh Junior High School,PORTADOWN,County Armagh,BT62 3QA,Controlled,Secondary,54.4169487,-6.4597067
+5210047,521-0047,Banbridge High School,BANBRIDGE,County Down,BT32 3EW,Controlled,Secondary,54.3451939,-6.2772665
+5210054,521-0054,Killicomaine Junior High School,PORTADOWN,County Armagh,BT63 5JE,Controlled,Secondary,54.4314106,-6.4186259
+5210064,521-0064,Dromore High School,DROMORE,County Down,BT25 1ND,Controlled,Secondary,54.411942,-6.1567948
+5210083,521-0083,Markethill High School,ARMAGH,County Armagh,BT60 1RQ,Controlled,Secondary,54.29475983,-6.522216825
+5210097,521-0097,Fivemiletown College ,FIVEMILETOWN,County Tyrone,BT75 0SB,Controlled,Secondary,54.3756488,-7.3246646
+5210121,521-0121,City Armagh High School,ARMAGH,County Armagh,BT61 7JH,Controlled,Secondary,54.3567964,-6.6525053
+5210127,521-0127,Rathfriland High School,NEWRY,County Down,BT34 5PZ,Controlled,Secondary,54.235566,-6.1669473
+5210143,521-0143,Tandragee Junior High School,TANDRAGEE,County Armagh,BT62 2AY,Controlled,Secondary,54.3559655,-6.4197132
+5210153,521-0153,Aughnacloy High School,AUGHNACLOY,County Tyrone,BT69 6DX,Controlled,Secondary,54.4185101,-6.9665866
+5210186,521-0186,Newry High School,NEWRY,County Down,BT34 1QN,Controlled,Secondary,54.19009855,-6.3305776
+5210230,521-0230,Cookstown High School,COOKSTOWN,County Tyrone,BT80 8PQ,Controlled,Secondary,54.6422295,-6.7373067
+5210231,521-0231,Drumglass High School,DUNGANNON,County Tyrone,BT71 4AA,Controlled,Secondary,54.5140702,-6.7705572
+5210271,521-0271,Lurgan Junior High,LURGAN,County Armagh,BT66 8SU,Controlled,Secondary,54.4546391,-6.3265656
+5210282,521-0282,Craigavon Senior High School,PORTADOWN,County Armagh,BT63 5HJ,Controlled,Secondary,54.4308058,-6.4235748
+5230056,523-0056,St Joseph's Boys' High School,NEWRY,County Down,BT35 6DH,Roman Catholic Maintained,Secondary,54.18569367,-6.342641333
+5230076,523-0076,St Patrick's College,BANBRIDGE,County Down,BT32 3AS,Roman Catholic Maintained,Secondary,54.3486027,-6.2833093
+5230108,523-0108,St Mary's High School,NEWRY,County Down,BT34 2DT,Roman Catholic Maintained,Secondary,54.1656433,-6.3285977
+5230135,523-0135,St Mark's High School,NEWRY,County Down,BT34 3PN,Roman Catholic Maintained,Secondary,54.11546557,-6.261436767
+5230152,523-0152,St Ciaran's College,DUNGANNON,County Tyrone,BT70 2LY,Roman Catholic Maintained,Secondary,54.4574881,-7.0394681
+5230157,523-0157,St Paul's High School,NEWRY,County Armagh,BT35 7EE,Roman Catholic Maintained,Secondary,54.1835358,-6.390832
+5230167,523-0167,St Joseph's High School,NEWRY,County Armagh,BT35 9HL,Roman Catholic Maintained,Secondary,54.0718931,-6.6043233
+5230187,523-0187,St Patrick's High School,KEADY,County Armagh,BT60 3TH,Roman Catholic Maintained,Secondary,54.2520394,-6.7119252
+5230192,523-0192,St Joseph's College,DUNGANNON,County Tyrone,BT71 4NW,Roman Catholic Maintained,Secondary,54.5461008,-6.7071808
+5230213,523-0213,Lismore Comprehensive School,CRAIGAVON,County Armagh,BT65 5DU,Roman Catholic Maintained,Secondary,54.4442636,-6.3624946
+5230218,523-0218,St Catherine's College,ARMAGH,County Armagh,BT60 4BG,Roman Catholic Maintained,Secondary,54.349087,-6.6649929
+5230278,523-0278,Holy Trinity College,COOKSTOWN,County Tyrone,BT80 8QB,Roman Catholic Maintained,Secondary,54.6415009,-6.7461083
+5230293,523-0293,St Patrick's College,DUNGANNON,County Tyrone,BT71 6LJ,Roman Catholic Maintained,Secondary,54.5096606,-6.7544367
+5230321,523-0321,St John the Baptist College,ARMAGH,County Armagh,BT62 1QQ,Roman Catholic Maintained,Secondary,54.4304168,-6.4621673
+5250216,525-0216,Brownlow Int College,CRAIGAVON,County Armagh,BT65 5BS,Controlled Integrated,Secondary,54.4488409,-6.3643727
+5260285,526-0285,New-Bridge Integrated College,BANBRIDGE,County Down,BT32 3LN,Grant Maintained Integrated,Secondary,54.31808775,-6.309973
+5260286,526-0286,Integrated College Dungannon,DUNGANNON,County Tyrone,BT71 6LS,Grant Maintained Integrated,Secondary,54.4957928,-6.7470583
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420068,,Dominican College,,County Antrim,BT15 4AQ,,,54.6299449,-5.9326927
+2410311,,Strabane Academy,,County Tyrone,BT82 8NW,,,54.826056,-7.453803
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+1410270,,Wellington College,,County Down,BT7 3HE,,,54.56997955,-5.9189724
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+2410311,,Strabane Academy,,County Tyrone,BT82 8NW,,,54.826056,-7.453803
+3420068,,Dominican College,,County Antrim,BT15 4AQ,,,54.6299449,-5.9326927
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+4420050,,Friends' School,,County Antrim,BT28 3BH,,,54.51727915,-6.0444394
+5420263,,"Royal School, Armagh",,County Armagh,BT61 9DH,,,54.350982,-6.64434995
+2410048,,Limavady Grammar School,,County Londonderry,BT49 9ET,,,55.04156387,-6.9453735
+2420064,,Christian Brothers Grammar (Omagh),,County Tyrone,BT78 1LD,,,54.5981713,-7.3027193
+1420028,,Belfast Royal Academy,,County Antrim,BT14 6JL,,,54.6149228,-5.9390221
+3420034,,Loreto College,,County Londonderry,BT51 3JZ,,,55.1400571,-6.6884927
+2420287,,Lumen Christi College,,County Londonderry,BT48 6UJ,,,54.9906636,-7.3309147
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+4420051,,Wallace High School,,County Antrim,BT28 3AD,,,54.51862355,-6.0515188
+5410013,,Banbridge Academy,,County Down,BT32 4AQ,,,54.357088,-6.2674035
+5420304,,St Patrick's Academy (Dungannon),,County Tyrone,BT71 6DS,,,54.5082884,-6.7565427
+3420080,,St Mary's Grammar School,,County Londonderry,BT45 6BE,,,54.7578353,-6.5993586
+2420065,,Loreto Grammar,,County Tyrone,BT78 1DL,,,54.6001216,-7.309051
+5420060,,Our Lady's Grammar School,,County Down,BT35 6DY,,,54.1808515,-6.3418012
+4410085,,Down High School,,County Down,BT30 6EU,,,54.330423,-5.7185255
+1410079,,Grosvenor Grammar School,,County Down,BT5 6BA,,,54.58435565,-5.8763942
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+5420062,,St Colman's College,,County Down,BT35 6PP,,,54.1880152,-6.34082
+1420030,,St Malachy's College,,County Antrim,BT15 2AE,,,54.60933655,-5.93874455
+2410311,,Strabane Academy,,County Tyrone,BT82 8NW,,,54.826056,-7.453803
+2420064,,Christian Brothers Grammar (Omagh),,County Tyrone,BT78 1LD,,,54.5981713,-7.3027193
+3420034,,Loreto College,,County Londonderry,BT51 3JZ,,,55.1400571,-6.6884927
+3410098,,Carrickfergus Grammar School,,County Antrim,BT38 7RA,,,54.7292648,-5.8155775
+4420086,,Assumption Grammar School,,County Down,BT24 8EA,,,54.4057683,-5.8967141
+1420030,,St Malachy's College,,County Antrim,BT15 2AE,,,54.60933655,-5.93874455
+5420073,,St Joseph's Grammar School,,County Tyrone,BT70 3HE,,,54.53061,-6.817304
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+1420029,,St Dominic's Grammar School for Girls,,County Antrim,BT12 6AE,,,54.5941848,-5.9591533
+3420068,,Dominican College,,County Antrim,BT15 4AQ,,,54.6299449,-5.9326927
+2420054,,St Columb's College,,County Londonderry,BT48 8NH,,,55.0215751,-7.3305782
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+4410085,,Down High School,,County Down,BT30 6EU,,,54.330423,-5.7185255
+5420059,,Christian Brothers' Abbey Grammar School,,County Down,BT34 1QN,,,54.19009855,-6.3305776
+1420264,,Victoria College,,County Antrim,BT9 6JA,,,54.5728521,-5.95148775
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+2420229,,Foyle College,,County Londonderry,BT47 6LR,,,55.00225585,-7.29195965
+3410297,,Cambridge House Grammar School,,County Antrim,BT42 2EH,,,54.8572074,-6.2951331
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+1410315,,Bloomfield Collegiate School,,County Down,BT5 6HW,,,54.5937222,-5.8642583
+2420043,,St Michael's Grammar (Enniskillen),,County Fermanagh,BT74 6DE,,,54.35024593,-7.61924215
+4420088,,St Patrick's Grammar (Downpatrick),,County Down,BT30 6NJ,,,54.33048205,-5.70956485
+1420020,,Campbell College,,County Down,BT4 2ND,,,54.5994814,-5.8489456
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+1410270,,Wellington College,,County Down,BT7 3HE,,,54.56997955,-5.9189724
+3420046,,Larne Grammar School,,County Antrim,BT40 1PQ,,,54.8531405,-5.82934044
+1420028,,Belfast Royal Academy,,County Antrim,BT14 6JL,,,54.6149228,-5.9390221
+4420050,,Friends' School,,County Antrim,BT28 3BH,,,54.51727915,-6.0444394
+4410085,,Down High School,,County Down,BT30 6EU,,,54.330423,-5.7185255
+2410048,,Limavady Grammar School,,County Londonderry,BT49 9ET,,,55.04156387,-6.9453735
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+4420051,,Wallace High School,,County Antrim,BT28 3AD,,,54.51862355,-6.0515188
+5410013,,Banbridge Academy,,County Down,BT32 4AQ,,,54.357088,-6.2674035
+1410079,,Grosvenor Grammar School,,County Down,BT5 6BA,,,54.58435565,-5.8763942
+5420263,,"Royal School, Armagh",,County Armagh,BT61 9DH,,,54.350982,-6.64434995
+5420304,,St Patrick's Academy (Dungannon),,County Tyrone,BT71 6DS,,,54.5082884,-6.7565427
+5420062,,St Colman's College,,County Down,BT35 6PP,,,54.1880152,-6.34082
+2420287,,Lumen Christi College,,County Londonderry,BT48 6UJ,,,54.9906636,-7.3309147
+2420064,,Christian Brothers Grammar (Omagh),,County Tyrone,BT78 1LD,,,54.5981713,-7.3027193
+5420060,,Our Lady's Grammar School,,County Down,BT35 6DY,,,54.1808515,-6.3418012
+3420034,,Loreto College,,County Londonderry,BT51 3JZ,,,55.1400571,-6.6884927
+3420080,,St Mary's Grammar School,,County Londonderry,BT45 6BE,,,54.7578353,-6.5993586
+5420073,,St Joseph's Grammar School,,County Tyrone,BT70 3HE,,,54.53061,-6.817304
+2410311,,Strabane Academy,,County Tyrone,BT82 8NW,,,54.826056,-7.453803
+1420030,,St Malachy's College,,County Antrim,BT15 2AE,,,54.60933655,-5.93874455
+4420088,,St Patrick's Grammar (Downpatrick),,County Down,BT30 6NJ,,,54.33048205,-5.70956485
+5420268,,St Patrick's Grammar (Armagh),,County Armagh,BT61 7QZ,,,54.3536221,-6.6578971
+4410063,,Regent House,,County Down,BT23 4QA,,,54.5893421,-5.7020929
+5420314,,St Ronan's College,,County Armagh,BT67 9JW,,,54.4616749,-6.3475941
+2420054,,St Columb's College,,County Londonderry,BT48 8NH,,,55.0215751,-7.3305782
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+5420045,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+2420064,,Christian Brothers Grammar (Omagh),,County Tyrone,BT78 1LD,,,54.5981713,-7.3027193
+4420086,,Assumption Grammar School,,County Down,BT24 8EA,,,54.4057683,-5.8967141
+1420029,,St Dominic's Grammar School for Girls,,County Antrim,BT12 6AE,,,54.5941848,-5.9591533
+3410098,,Carrickfergus Grammar School,,County Antrim,BT38 7RA,,,54.7292648,-5.8155775
+3420034,,Loreto College,,County Londonderry,BT51 3JZ,,,55.1400571,-6.6884927
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+4410085,,Down High School,,County Down,BT30 6EU,,,54.330423,-5.7185255
+3420317,,Coleraine Grammar School,,County Londonderry,BT51 1LZ,,,55.1302449,-6.6621635
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+4420015,,Bangor Grammar School,,County Down,BT19 7QU,,,54.6430585,-5.6488219
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+3410297,,Cambridge House Grammar School,,County Antrim,BT42 2EH,,,54.8572074,-6.2951331
+5420059,,Christian Brothers' Abbey Grammar School,,County Down,BT34 1QN,,,54.19009855,-6.3305776
+1420264,,Victoria College,,County Antrim,BT9 6JA,,,54.5728521,-5.95148775
+2420229,,Foyle College,,County Londonderry,BT47 6LR,,,55.00225585,-7.29195965
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+2420043,,St Michael's Grammar (Enniskillen),,County Fermanagh,BT74 6DE,,,54.35024593,-7.61924215
+1410270,,Wellington College,,County Down,BT7 3HE,,,54.56997955,-5.9189724
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+3420046,,Larne Grammar School,,County Antrim,BT40 1PQ,,,54.8531405,-5.82934044
+4420044,,Sullivan Upper School,,County Down,BT18 9EP,,,54.6347752,-5.8374336
+4420088,,St Patrick's Grammar (Downpatrick),,County Down,BT30 6NJ,,,54.33048205,-5.70956485
+5420260,,"Royal School, Dungannon",,County Tyrone,BT71 6AP,,,54.5023372,-6.7616436
+5410013,,Banbridge Academy,,County Down,BT32 4AQ,,,54.357088,-6.2674035
+5420062,,St Colman's College,,County Down,BT35 6PP,,,54.1880152,-6.34082
+4420259,,"Our Lady and St Patrick's College, Knock",,County Down,BT5 7DL,,,54.585601,-5.8405899
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420077,,Belfast High School,,County Antrim,BT37 0PX,,,54.6883847,-5.8756819
+1420028,,Belfast Royal Academy,,County Antrim,BT14 6JL,,,54.6149228,-5.9390221
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+1420095,,Rathmore,,County Antrim,BT10 0LF,,,54.5507763,-5.99163085
+1420030,,St Malachy's College,,County Antrim,BT15 2AE,,,54.60933655,-5.93874455
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+4420044,,Sullivan Upper School,,County Down,BT18 9EP,,,54.6347752,-5.8374336
+4420015,,Bangor Grammar School,,County Down,BT19 7QU,,,54.6430585,-5.6488219
+1420095,,Rathmore,,County Antrim,BT10 0LF,,,54.5507763,-5.99163085
+5420260,,"Royal School, Dungannon",,County Tyrone,BT71 6AP,,,54.5023372,-6.7616436
+5410013,,Banbridge Academy,,County Down,BT32 4AQ,,,54.357088,-6.2674035
+5420062,,St Colman's College,,County Down,BT35 6PP,,,54.1880152,-6.34082
+4420259,,"Our Lady and St Patrick's College, Knock",,County Down,BT5 7DL,,,54.585601,-5.8405899
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420077,,Belfast High School,,County Antrim,BT37 0PX,,,54.6883847,-5.8756819
+1420028,,Belfast Royal Academy,,County Antrim,BT14 6JL,,,54.6149228,-5.9390221
+1420030,,St Malachy's College,,County Antrim,BT15 2AE,,,54.60933655,-5.93874455
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+1420022,,Methodist College,,County Antrim,BT9 6BY,,,54.5839071,-5.9409888
+4420044,,Sullivan Upper School,,County Down,BT18 9EP,,,54.6347752,-5.8374336
+3420012,,Dalriada School,,County Antrim,BT53 6BL,,,55.0728006,-6.5227957
+5420260,,"Royal School, Dungannon",,County Tyrone,BT71 6AP,,,54.5023372,-6.7616436
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+4420015,,Bangor Grammar School,,County Down,BT19 7QU,,,54.6430585,-5.6488219
+5420059,,Christian Brothers' Abbey Grammar School,,County Down,BT34 1QN,,,54.19009855,-6.3305776
+5410067,,Portadown College,,County Armagh,BT63 5BU,,,54.4239498,-6.4254452
+3420077,,Belfast High School,,County Antrim,BT37 0PX,,,54.6883847,-5.8756819
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+3410008,,Ballyclare High School (Grammar),,County Antrim,BT39 9HJ,,,54.75407857,-6.0031047
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+4420259,,"Our Lady and St Patrick's College, Knock",,County Down,BT5 7DL,,,54.585601,-5.8405899
+1420095,,Rathmore,,County Antrim,BT10 0LF,,,54.5507763,-5.99163085
+4420086,,Assumption Grammar School,,County Down,BT24 8EA,,,54.4057683,-5.8967141
+4420044,,Sullivan Upper School,,County Down,BT18 9EP,,,54.6347752,-5.8374336
+3420012,,Dalriada School,,County Antrim,BT53 6BL,,,55.0728006,-6.5227957
+4420088,,St Patrick's Grammar (Downpatrick),,County Down,BT30 6NJ,,,54.33048205,-5.70956485
+5420260,,"Royal School, Dungannon",,County Tyrone,BT71 6AP,,,54.5023372,-6.7616436
+1420021,,St Mary's Christian Brothers' Grammar School,,County Antrim,BT11 8NR,,,54.5835397,-6.0029513
+4420015,,Bangor Grammar School,,County Down,BT19 7QU,,,54.6430585,-5.6488219
+3410209,,Antrim Grammar School,,County Antrim,BT41 1AF,,,54.72175337,-6.212335467
+5420059,,Christian Brothers' Abbey Grammar School,,County Down,BT34 1QN,,,54.19009855,-6.3305776
+4420086,,Assumption Grammar School,,County Down,BT24 8EA,,,54.4057683,-5.8967141
+4420259,,"Our Lady and St Patrick's College, Knock",,County Down,BT5 7DL,,,54.585601,-5.8405899
+3410008,,Ballyclare High School (Grammar),,County Antrim,BT39 9HJ,,,54.75407857,-6.0031047
+5410067,,Portadown College,,County Armagh,BT63 5BU,,,54.4239498,-6.4254452
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+3420010,,St Louis' Grammar School,,County Down,BT34 4EU,,,54.0657672,-6.0315991
+1420095,,Rathmore,,County Antrim,BT10 0LF,,,54.5507763,-5.99163085
+1420020,,Campbell College,,County Down,BT4 2ND,,,54.5994814,-5.8489456
+1420027,,Royal Belfast Academical Institution,,County Antrim,BT1 6DL,,,54.5968341,-5.9365843
+3420077,,Belfast High School,,County Antrim,BT37 0PX,,,54.6883847,-5.8756819
+1420089,,Strathearn School,,County Down,BT4 2AU,,,54.6016281,-5.8617034
+1420277,,Aquinas Grammar,,County Down,BT6 0BY,,,54.57648405,-5.90925365

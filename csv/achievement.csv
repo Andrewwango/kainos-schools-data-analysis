@@ -1,0 +1,796 @@
+﻿exam_year,ks,subject_code,subject_name,n_entries,n_grades_astar_to_c,percent_entries_astar_to_c
+2016,4,0001,Applied Art & Des,21,13,61.9
+2016,4,0002,Applied Business,664,486,73.2
+2016,4,0003,Health & Soc Care,748,556,74.3
+2016,4,0004,Leisure & Tourism,223,112,50.2
+2016,4,0005,Manufacturing,116,76,65.5
+2016,4,0006,Construction,570,470,82.5
+2016,4,0007,Hosp & Catering,335,214,63.9
+2016,4,0009,Applied Engineering,387,258,66.7
+2016,4,0010,Applied ICT,170,161,94.7
+2016,4,0015,Performing Arts,302,190,62.9
+2016,4,0021,Prep for Employmnt,6053,4729,78.1
+2016,4,0028,Addl Appl Sci,21,8,38.1
+2016,4,0040,Journalism,241,199,82.6
+2016,4,1010,Biology,4022,3790,94.2
+2016,4,1110,Chemistry,3145,2955,94.0
+2016,4,1210,Physics,2873,2764,96.2
+2016,4,1300,Science (Core),1016,419,41.2
+2016,4,1310,Science SA,4905,3538,72.1
+2016,4,1320,Science: Additional,1211,987,81.5
+2016,4,1370,Science Double Awd,6923,6586,95.1
+2016,4,1690,Science: Astronomy,46,44,95.7
+2016,4,1730,Sci: Electronics,28,26,92.9
+2016,4,1770,Science: Geology,30,30,100.0
+2016,4,2210,Mathematics,20640,13864,67.2
+2016,4,2330,Maths (Further),3367,3166,94.0
+2016,4,2510,Statistics,414,295,71.3
+2016,4,2610,Com.Stds/Computing,511,444,86.9
+2016,4,2650,Inform Comm Tech,7626,6223,81.6
+2016,4,3070,Motor Vehicle Stds,758,419,55.3
+2016,4,3210,Bus. Studs:Single,2588,2143,82.8
+2016,4,3310,Home Economics,2183,1828,83.7
+2016,4,3330,HE: Child Devt,1778,1316,74.0
+2016,4,3350,HE: Food,167,96,57.5
+2016,4,3510,Art & Design,3945,3275,83.0
+2016,4,3570,Art & Des(Photo.),52,37,71.2
+2016,4,3650,Art & Des(Textles),4,c,c
+2016,4,3690,Art&Des : Fine Art,9,9,100.0
+2016,4,3910,Geography,5917,4749,80.3
+2016,4,4010,History,6612,5353,81.0
+2016,4,4410,Economics,234,218,93.2
+2016,4,4610,Religious Studies,11711,9119,77.9
+2016,4,4850,Psychology,31,28,90.3
+2016,4,4890,Sociology,178,124,69.7
+2016,4,5010,English,815,495,60.7
+2016,4,5030,English Language,19339,15667,81.0
+2016,4,5110,English Literature,10138,9485,93.6
+2016,4,5210,Drama & Theat.Stds,1427,1230,86.2
+2016,4,5350,Media/Film/TV Stds,1705,1319,77.4
+2016,4,5360,Film Studies,13,6,46.2
+2016,4,5550,Irish,1538,1475,95.9
+2016,4,5630,Dutch,1,c,c
+2016,4,5650,French,5075,4363,86.0
+2016,4,5670,German,1137,976,85.8
+2016,4,5690,Italian,13,13,100.0
+2016,4,5730,Portuguese,17,15,88.2
+2016,4,5750,Spanish,3494,3161,90.5
+2016,4,5910,Arabic,2,c,c
+2016,4,5930,Bengali,1,c,c
+2016,4,5950,Chinese,6,5,83.3
+2016,4,6010,Japanese,1,c,c
+2016,4,6070,Polish,59,57,96.6
+2016,4,6090,Russian,22,22,100.0
+2016,4,6510,Ancient History,17,12,70.6
+2016,4,6530,Class.Civilisation,61,56,91.8
+2016,4,6550,Classical Greek,2,c,c
+2016,4,6610,Latin,51,43,84.3
+2016,4,7010,Music,1529,1391,91.0
+2016,4,7210,Sport/P.E. Studies,3153,2584,82.0
+2016,4,7230,Dance,18,16,88.9
+2016,4,7430,Catering Studies,15,9,60.0
+2016,4,7460,Office Technology,1136,741,65.2
+2016,4,8900,Design& Technology,2563,2153,84.0
+2016,4,9010,D&T Electrnc.Prods,131,125,95.4
+2016,4,9030,D&T Graphic Prods,62,42,67.7
+2016,4,9040,D&T Resist. Matrls,1170,821,70.2
+2016,4,9060,D&T Systems & Cont,85,82,96.5
+2016,4,9080,D&T Product Design,124,77,62.1
+2016,4,SA1,Agriculture,166,117,70.5
+2017,4,0001,Applied Art & Des,32,28,87.5
+2017,4,0002,Applied Business,845,617,73.0
+2017,4,0003,Health & Soc Care,824,598,72.6
+2017,4,0004,Leisure & Tourism,252,116,46.0
+2017,4,0005,Manufacturing,156,118,75.6
+2017,4,0006,Construction,673,522,77.6
+2017,4,0007,Hosp & Catering,347,227,65.4
+2017,4,0009,Applied Engineering,378,256,67.7
+2017,4,0010,Applied ICT,162,153,94.4
+2017,4,0015,Performing Arts,286,181,63.3
+2017,4,0021,Prep for Employmnt,5570,4323,77.6
+2017,4,0028,Addl Appl Sci,25,17,68.0
+2017,4,0040,Journalism,230,179,77.8
+2017,4,1010,Biology,3839,3598,93.7
+2017,4,1110,Chemistry,2998,2852,95.1
+2017,4,1210,Physics,2935,2844,96.9
+2017,4,1300,Science (Core),780,296,37.9
+2017,4,1310,Science SA,5229,3783,72.3
+2017,4,1320,Science: Additional,892,671,75.2
+2017,4,1370,Science Double Awd,6936,6588,95.0
+2017,4,1690,Science: Astronomy,24,18,75.0
+2017,4,1730,Sci: Electronics,21,19,90.5
+2017,4,1770,Science: Geology,17,16,94.1
+2017,4,2210,Mathematics,20532,14152,68.9
+2017,4,2330,Maths (Further),3325,3152,94.8
+2017,4,2510,Statistics,328,266,81.1
+2017,4,2610,Com.Stds/Computing,677,566,83.6
+2017,4,2650,Inform Comm Tech,7544,6034,80.0
+2017,4,3070,Motor Vehicle Stds,831,450,54.2
+2017,4,3210,Bus. Studs:Single,2689,2138,79.5
+2017,4,3310,Home Economics,2158,1798,83.3
+2017,4,3330,HE: Child Devt,1777,1305,73.4
+2017,4,3350,HE: Food,128,88,68.8
+2017,4,3510,Art & Design,3801,3162,83.2
+2017,4,3570,Art & Des(Photo.),25,22,88.0
+2017,4,3650,Art & Des(Textles),16,c,c
+2017,4,3690,Art&Des : Fine Art,18,14,77.8
+2017,4,3910,Geography,5747,4580,79.7
+2017,4,4010,History,6240,5060,81.1
+2017,4,4410,Economics,197,187,94.9
+2017,4,4610,Religious Studies,11107,8850,79.7
+2017,4,4850,Psychology,10,8,80.0
+2017,4,4890,Sociology,182,131,72.0
+2017,4,4910,Soc Sci:Citizenshp,1,c,c
+2017,4,5010,English,34,19,55.9
+2017,4,5030,English Language,19720,16093,81.6
+2017,4,5110,English Literature,9949,9191,92.4
+2017,4,5210,Drama & Theat.Stds,1275,1122,88.0
+2017,4,5350,Media/Film/TV Stds,1691,1222,72.3
+2017,4,5360,Film Studies,9,c,c
+2017,4,5550,Irish,1483,1412,95.2
+2017,4,5630,Dutch,1,c,c
+2017,4,5650,French,4604,3903,84.8
+2017,4,5670,German,915,793,86.7
+2017,4,5690,Italian,8,8,100.0
+2017,4,5730,Portuguese,16,16,100.0
+2017,4,5750,Spanish,3787,3416,90.2
+2017,4,5910,Arabic,5,5,100.0
+2017,4,5950,Chinese,2,c,c
+2017,4,6070,Polish,58,54,93.1
+2017,4,6090,Russian,16,14,87.5
+2017,4,6130,Urdu,1,c,c
+2017,4,6510,Ancient History,17,16,94.1
+2017,4,6530,Class.Civilisation,85,68,80.0
+2017,4,6550,Classical Greek,4,c,c
+2017,4,6610,Latin,66,62,93.9
+2017,4,7010,Music,1393,1266,90.9
+2017,4,7210,Sport/P.E. Studies,3063,2504,81.7
+2017,4,7230,Dance,9,c,c
+2017,4,7430,Catering Studies,1,c,c
+2017,4,7460,Office Technology,1016,661,65.1
+2017,4,8900,Design& Technology,2441,2033,83.3
+2017,4,9010,D&T Electrnc.Prods,123,118,95.9
+2017,4,9020,D&T Food Technolgy,3,c,c
+2017,4,9030,D&T Graphic Prods,113,73,64.6
+2017,4,9040,D&T Resist. Matrls,1163,790,67.9
+2017,4,9050,D&T Textiles Tech.,1,c,c
+2017,4,9060,D&T Systems & Cont,90,80,88.9
+2017,4,9080,D&T Product Design,161,94,58.4
+2017,4,SA1,Agriculture,173,110,63.6
+2018,4,0002,Applied Business,891,625,70.1
+2018,4,0003,Health & Soc Care,894,642,71.8
+2018,4,0004,Leisure & Tourism,241,122,50.6
+2018,4,0005,Manufacturing,88,60,68.2
+2018,4,0006,Construction,740,591,79.9
+2018,4,0007,Hosp & Catering,334,203,60.8
+2018,4,0009,Applied Engineering,411,287,69.8
+2018,4,0010,Applied ICT,181,156,86.2
+2018,4,0021,Prep for Employmnt,5015,3912,78.0
+2018,4,0040,Journalism,132,102,77.3
+2018,4,1010,Biology,3682,3586,97.4
+2018,4,1110,Chemistry,2910,2770,95.2
+2018,4,1210,Physics,2835,2745,96.8
+2018,4,1310,Science SA,5941,4234,71.3
+2018,4,1370,Science Double Awd,7674,7172,93.5
+2018,4,1690,Science: Astronomy,23,19,82.6
+2018,4,1730,Sci: Electronics,13,13,100.0
+2018,4,1770,Science: Geology,33,32,97.0
+2018,4,2210,Mathematics,20972,14517,69.2
+2018,4,2330,Maths (Further),3426,3260,95.2
+2018,4,2510,Statistics,269,211,78.4
+2018,4,2610,Com.Stds/Computing,649,580,89.4
+2018,4,2650,Inform Comm Tech,7221,5809,80.4
+2018,4,3070,Motor Vehicle Stds,864,482,55.8
+2018,4,3210,Bus. Studs:Single,2868,2337,81.5
+2018,4,3310,Home Economics,2248,1877,83.5
+2018,4,3330,HE: Child Devt,1708,1263,73.9
+2018,4,3510,Art & Design,3594,2943,81.9
+2018,4,3570,Art & Des(Photo.),37,32,86.5
+2018,4,3690,Art&Des : Fine Art,46,40,87.0
+2018,4,3910,Geography,5712,4571,80.0
+2018,4,4010,History,5999,4815,80.3
+2018,4,4410,Economics,181,169,93.4
+2018,4,4610,Religious Studies,10643,8671,81.5
+2018,4,4850,Psychology,27,21,77.8
+2018,4,4890,Sociology,176,132,75.0
+2018,4,5010,English,46,39,84.8
+2018,4,5030,English Language,19832,16236,81.9
+2018,4,5110,English Literature,9743,9038,92.8
+2018,4,5210,Drama & Theat.Stds,1361,1225,90.0
+2018,4,5350,Media/Film/TV Stds,1712,1277,74.6
+2018,4,5360,Film Studies,20,11,55.0
+2018,4,5550,Irish,1521,1445,95.0
+2018,4,5630,Dutch,1,c,c
+2018,4,5650,French,4123,3408,82.7
+2018,4,5670,German,998,830,83.2
+2018,4,5730,Portuguese,16,16,100.0
+2018,4,5750,Spanish,3652,3307,90.6
+2018,4,5910,Arabic,10,7,70.0
+2018,4,5950,Chinese,5,5,100.0
+2018,4,6070,Polish,68,60,88.2
+2018,4,6090,Russian,18,18,100.0
+2018,4,6110,Turkish,2,c,c
+2018,4,6510,Ancient History,11,10,90.9
+2018,4,6530,Class.Civilisation,89,80,89.9
+2018,4,6550,Classical Greek,3,c,c
+2018,4,6610,Latin,87,83,95.4
+2018,4,7010,Music,1269,1137,89.6
+2018,4,7210,Sport/P.E. Studies,2958,2465,83.3
+2018,4,7460,Office Technology,990,649,65.6
+2018,4,8900,Design& Technology,2553,2113,82.8
+2018,4,9010,D&T Electrnc.Prods,115,111,96.5
+2018,4,9020,D&T Food Technolgy,29,21,72.4
+2018,4,9030,D&T Graphic Prods,61,30,49.2
+2018,4,9040,D&T Resist. Matrls,1089,784,72.0
+2018,4,9060,D&T Systems & Cont,73,67,91.8
+2018,4,9080,D&T Product Design,67,47,70.1
+2018,4,SA1,Agriculture,235,162,68.9
+2019,4,0003,Health and Social Care,1213,885,73.0
+2019,4,0004,Leisure and Tourism,111,64,57.7
+2019,4,0007,Hospitality,360,233,64.7
+2019,4,0015,Performing Arts,6,c,c
+2019,4,1010,Biology,3804,3677,96.7
+2019,4,1110,Chemistry,2994,2856,95.4
+2019,4,1210,Physics,2813,2728,97.0
+2019,4,1310,Science SA,5728,4041,70.5
+2019,4,1370,Science Double Awd,7818,7388,94.5
+2019,4,1690,Science: Astronomy,15,14,93.3
+2019,4,1730,Science: Electronics,11,11,100.0
+2019,4,1770,Science: Geology,28,27,96.4
+2019,4,2210,Mathematics,24130,17021,70.5
+2019,4,2330,Maths (Further),3648,3461,94.9
+2019,4,2340,Additional Mathematics,7,c,c
+2019,4,2510,Statistics,652,541,83.0
+2019,4,2610,Computer Studies / Computing,461,404,87.6
+2019,4,2650,Information and Communication Technology,3831,3178,83.0
+2019,4,3070,Motor Vehicle Studies,925,533,57.6
+2019,4,3210,Business,3458,2781,80.4
+2019,4,3310,Home Economics,2446,2037,83.3
+2019,4,3330,HE: Child Development,1941,1456,75.0
+2019,4,3510,Art and Design,3538,2953,83.5
+2019,4,3550,Art and Design (Graphics),27,27,100.0
+2019,4,3570,Art and Design (Photography),13,11,84.6
+2019,4,3650,Art and Design (Textiles),12,12,100.0
+2019,4,3690,Art and Design (Fine Art),1,c,c
+2019,4,3910,Geography,5767,4702,81.5
+2019,4,4010,History,6835,5629,82.4
+2019,4,4410,Economics,203,192,94.6
+2019,4,4610,Religious Studies,10463,8589,82.1
+2019,4,4810,Personal / Social Education,4220,3319,78.6
+2019,4,4830,Government and Politics,103,88,85.4
+2019,4,4850,Psychology,30,16,53.3
+2019,4,4890,Sociology,196,143,73.0
+2019,4,4910,Social Science: Citizenship,1,c,c
+2019,4,5010,English,21,c,c
+2019,4,5012,Gaeilge,204,189,92.6
+2019,4,5030,English Language,21052,17140,81.4
+2019,4,5110,English Literature,9872,9268,93.9
+2019,4,5210,Drama and Theatre Studies,1446,1279,88.5
+2019,4,5350,Media,731,619,84.7
+2019,4,5360,Film Studies,50,23,46.0
+2019,4,5550,Irish,1556,1467,94.3
+2019,4,5650,French,4006,3351,83.6
+2019,4,5670,German,783,660,84.3
+2019,4,5690,Italian,7,7,100.0
+2019,4,5710,Modern Greek,1,c,c
+2019,4,5730,Portuguese,54,43,79.6
+2019,4,5750,Spanish,3320,3048,91.8
+2019,4,5910,Arabic,15,14,93.3
+2019,4,5930,Bengali,1,c,c
+2019,4,5950,Chinese,25,25,100.0
+2019,4,6010,Japanese,1,c,c
+2019,4,6070,Polish,160,144,90.0
+2019,4,6090,Russian,22,21,95.5
+2019,4,6110,Turkish,1,c,c
+2019,4,6510,Ancient History,34,26,76.5
+2019,4,6530,Classic Civilisation,69,62,89.9
+2019,4,6610,Latin,53,52,98.1
+2019,4,7010,Music,1361,1237,90.9
+2019,4,7210,Sport / P.E. Studies,2741,2299,83.9
+2019,4,8210,IT and Art,746,544,72.9
+2019,4,8900,Design and Technology,3766,3019,80.2
+2019,4,9080,Design and Technology: Product Design,15,8,53.3
+2019,4,AA5,Business and ICT,1629,1106,67.9
+2019,4,FK22,ESOL (English for Speakers of Other Languages),3,c,c
+2019,4,JB,Creative Craft,148,106,71.6
+2019,4,KD1,Journalism,113,83,73.5
+2019,4,KJ1,Photography,19,11,57.9
+2019,4,LB1,Dance,7,6,85.7
+2019,4,SA1,Agriculture,199,145,72.9
+2019,4,TE1,Construction,795,621,78.1
+2019,4,XA1,Engineering,505,322,63.8
+2020,4,0003,Health and Social Care,1234,1093,88.6
+2020,4,0004,Leisure and Tourism,167,132,79.0
+2020,4,0007,Hospitality,381,296,77.7
+2020,4,0015,Performing Arts,12,11,91.7
+2020,4,1010,Biology,3753,3690,98.3
+2020,4,1110,Chemistry,2981,2940,98.6
+2020,4,1210,Physics,2813,2783,98.9
+2020,4,1310,Science SA,5831,4732,81.2
+2020,4,1370,Science Double Awd,7972,7709,96.7
+2020,4,1690,Science: Astronomy,7,7,100.0
+2020,4,1730,Science: Electronics,8,8,100.0
+2020,4,1770,Science: Geology,20,20,100.0
+2020,4,2210,Mathematics,26960,20308,75.3
+2020,4,2330,Maths (Further),3728,3692,99.0
+2020,4,2510,Statistics,587,562,95.7
+2020,4,2610,Computer Studies / Computing,421,413,98.1
+2020,4,2650,Information and Communication Technology,3445,3198,92.8
+2020,4,3070,Motor Vehicle Studies,866,663,76.6
+2020,4,3210,Business,3731,3384,90.7
+2020,4,3310,Home Economics,2527,2359,93.4
+2020,4,3330,HE: Child Development,1959,1687,86.1
+2020,4,3510,Art and Design,3415,3162,92.6
+2020,4,3550,Art and Design (Graphics),26,26,100.0
+2020,4,3570,Art and Design (Photography),18,17,94.4
+2020,4,3650,Art and Design (Textiles),17,17,100.0
+2020,4,3910,Geography,5856,5291,90.4
+2020,4,4010,History,7156,6442,90.0
+2020,4,4410,Economics,199,194,97.5
+2020,4,4610,Religious Studies,10255,9409,91.8
+2020,4,4810,Personal / Social Education,4104,3577,87.2
+2020,4,4830,Government and Politics,161,144,89.4
+2020,4,4850,Psychology,33,28,84.8
+2020,4,4890,Sociology,183,156,85.2
+2020,4,5012,Gaeilge,209,207,99.0
+2020,4,5030,English Language,21705,18902,87.1
+2020,4,5110,English Literature,10209,9968,97.6
+2020,4,5210,Drama and Theatre Studies,1524,1460,95.8
+2020,4,5350,Media,678,614,90.6
+2020,4,5360,Film Studies,37,31,83.8
+2020,4,5550,Irish,1509,1476,97.8
+2020,4,5650,French,3657,3405,93.1
+2020,4,5670,German,813,753,92.6
+2020,4,5690,Italian,4,c,c
+2020,4,5730,Portuguese,19,19,100.0
+2020,4,5750,Spanish,3557,3394,95.4
+2020,4,5910,Arabic,28,25,89.3
+2020,4,5950,Chinese,8,7,87.5
+2020,4,6010,Japanese,1,c,c
+2020,4,6070,Polish,158,151,95.6
+2020,4,6090,Russian,11,11,100.0
+2020,4,6110,Turkish,2,c,c
+2020,4,6510,Ancient History,15,11,73.3
+2020,4,6530,Classic Civilisation,87,86,98.9
+2020,4,6550,Classical Greek,1,c,c
+2020,4,6610,Latin,69,68,98.6
+2020,4,7010,Music,1391,1362,97.9
+2020,4,7210,Sport / P.E. Studies,2793,2663,95.3
+2020,4,8210,IT and Art,658,575,87.4
+2020,4,8900,Design and Technology,3659,3297,90.1
+2020,4,9080,Design and Technology: Product Design,37,31,83.8
+2020,4,AA5,Business and ICT,1622,1391,85.8
+2020,4,JB,Creative Craft,138,122,88.4
+2020,4,KD1,Journalism,148,143,96.6
+2020,4,KJ1,Photography,1,c,c
+2020,4,LB1,Dance,11,11,100.0
+2020,4,SA1,Agriculture,224,193,86.2
+2020,4,TE1,Construction,961,882,91.8
+2020,4,XA1,Engineering,376,297,79.0
+2021,4,0003,Health and Social Care,1514,1308,86.4
+2021,4,0004,Leisure and Tourism,164,135,82.3
+2021,4,0007,Hospitality,483,419,86.7
+2021,4,1010,Biology,3756,3695,98.4
+2021,4,1110,Chemistry,2963,2917,98.4
+2021,4,1210,Physics,2808,2763,98.4
+2021,4,1310,Science SA,6081,5022,82.6
+2021,4,1370,Science Double Awd,8181,7896,96.5
+2021,4,1690,Science: Astronomy,3,c,c
+2021,4,1730,Science: Electronics,25,24,96.0
+2021,4,1770,Science: Geology,18,18,100.0
+2021,4,2210,Mathematics,23423,19158,81.8
+2021,4,2330,Maths (Further),4023,3943,98.0
+2021,4,2510,Statistics,449,379,84.4
+2021,4,2610,Computer Studies / Computing,520,507,97.5
+2021,4,2650,Information and Communication Technology,3114,2855,91.7
+2021,4,3070,Motor Vehicle Studies,1012,774,76.5
+2021,4,3210,Business,3789,3438,90.7
+2021,4,3310,Home Economics,2671,2395,89.7
+2021,4,3330,HE: Child Development,2211,1949,88.2
+2021,4,3510,Art and Design,3675,3403,92.6
+2021,4,3910,Geography,6299,5732,91.0
+2021,4,4010,History,7475,6685,89.4
+2021,4,4410,Economics,187,176,94.1
+2021,4,4610,Religious Studies,10572,9744,92.2
+2021,4,4810,Personal / Social Education,3474,2931,84.4
+2021,4,4830,Government and Politics,201,183,91.0
+2021,4,4850,Psychology,28,25,89.3
+2021,4,4890,Sociology,156,138,88.5
+2021,4,5012,Gaeilge,239,230,96.2
+2021,4,5030,English Language,22037,18992,86.2
+2021,4,5110,English Literature,10147,9790,96.5
+2021,4,5210,Drama and Theatre Studies,1489,1357,91.1
+2021,4,5350,Media,668,580,86.8
+2021,4,5360,Film Studies,22,22,100.0
+2021,4,5550,Irish,1471,1438,97.8
+2021,4,5650,French,3544,3349,94.5
+2021,4,5670,German,692,656,94.8
+2021,4,5690,Italian,4,c,c
+2021,4,5730,Portuguese,24,23,95.8
+2021,4,5750,Spanish,3626,3447,95.1
+2021,4,5910,Arabic,40,32,80.0
+2021,4,5930,Bengali,1,c,c
+2021,4,5950,Chinese,2,c,c
+2021,4,6070,Polish,56,55,98.2
+2021,4,6090,Russian,10,10,100.0
+2021,4,6510,Ancient History,53,51,96.2
+2021,4,6530,Classic Civilisation,94,91,96.8
+2021,4,6550,Classical Greek,4,c,c
+2021,4,6610,Latin,84,84,100.0
+2021,4,7010,Music,1387,1334,96.2
+2021,4,7210,Sport / P.E. Studies,2767,2615,94.5
+2021,4,8210,IT and Art,702,592,84.3
+2021,4,8900,Design and Technology,3641,3211,88.2
+2021,4,AA5,Business and ICT,1720,1408,81.9
+2021,4,JB,Creative Craft,145,129,89.0
+2021,4,KD1,Journalism,182,174,95.6
+2021,4,LB1,Dance,9,9,100.0
+2021,4,SA1,Agriculture,306,266,86.9
+2021,4,TE1,Construction,1022,917,89.7
+2021,4,XA1,Engineering,331,258,77.9
+2016,5,0001,GNVQ Art and Design,53,49,92.5
+2016,5,0002,GNVQ Business Studies,1472,1296,88.0
+2016,5,0003,GNVQ Health and Social Sci,2343,2011,85.8
+2016,5,0008,GNVQ Science,510,367,72.0
+2016,5,0009,GNVQ Engineering,9,c,c
+2016,5,0010,GNVQ Information Technolog,1783,1546,86.7
+2016,5,0015,GNVQ Performing Arts,134,122,91.0
+2016,5,0016,GNVQ Lesiure and Recreatio,62,54,87.1
+2016,5,0017,Travel and Toursim,205,160,78.0
+2016,5,0040,Journalism,62,50,80.6
+2016,5,1010,Biology,2938,2412,82.1
+2016,5,1110,Chemistry,1755,1498,85.4
+2016,5,1210,Physics,1351,1110,82.2
+2016,5,1730,Electronics,14,12,85.7
+2016,5,1750,Environmental Science,67,59,88.1
+2016,5,1770,Geology,38,32,84.2
+2016,5,2210,Mathematics,3224,2847,88.3
+2016,5,2330,Further Maths,187,181,96.8
+2016,5,2340,Additional Mathematics,1,c,c
+2016,5,2610,Computer Studies,243,191,78.6
+2016,5,2650,Information Technology,1403,1104,78.7
+2016,5,3210,Business Studies,1318,1176,89.2
+2016,5,3310,Home Economics,528,483,91.5
+2016,5,3350,Home Economics: Food,47,41,87.2
+2016,5,3510,Art and Design,853,775,90.9
+2016,5,3570,Art and Design (Photograph,51,38,74.5
+2016,5,3830,History of Art,7,5,71.4
+2016,5,3910,Geography,1791,1539,85.9
+2016,5,4010,History,2175,1842,84.7
+2016,5,4410,Economics,352,297,84.4
+2016,5,4610,Religious Studies,1954,1749,89.5
+2016,5,4770,Law,47,21,44.7
+2016,5,4830,Politics,884,788,89.1
+2016,5,4850,Psychology,563,381,67.7
+2016,5,4890,Sociology,747,536,71.8
+2016,5,4910,Citizenship,25,13,52.0
+2016,5,5010,English,59,51,86.4
+2016,5,5030,English Language,44,40,90.9
+2016,5,5110,English Literature,1898,1611,84.9
+2016,5,5210,Drama,463,411,88.8
+2016,5,5350,Media Studies,1104,966,87.5
+2016,5,5360,Film Studies,18,9,50.0
+2016,5,5550,Irish,315,299,94.9
+2016,5,5650,French,492,432,87.8
+2016,5,5670,German,100,85,85.0
+2016,5,5690,Italian,3,c,c
+2016,5,5730,Portuguese,6,5,83.3
+2016,5,5750,Spanish,511,461,90.2
+2016,5,5910,Arabic,2,c,c
+2016,5,5950,Chinese,21,20,95.2
+2016,5,6070,Polish,44,41,93.2
+2016,5,6090,Russian,5,5,100.0
+2016,5,6150,Persian,1,c,c
+2016,5,6530,Classical Civilisation,101,87,86.1
+2016,5,6610,Latin,7,6,85.7
+2016,5,7010,Music,351,296,84.3
+2016,5,7040,Music Technology,4,c,c
+2016,5,7210,PE Studies,542,411,75.8
+2016,5,7230,Dance,7,7,100.0
+2016,5,7410,Accounting/Finance,134,97,72.4
+2016,5,9060,Systems,488,431,88.3
+2016,5,9080,Design and technology: Pro,491,343,69.9
+2017,5,0001,GNVQ Art and Design,46,41,89.1
+2017,5,0002,GNVQ Business Studies,1514,1317,87.0
+2017,5,0003,GNVQ Health and Social Sci,2312,2031,87.8
+2017,5,0008,GNVQ Science,479,361,75.4
+2017,5,0009,GNVQ Engineering,19,16,84.2
+2017,5,0010,GNVQ Information Technolog,1729,1497,86.6
+2017,5,0015,GNVQ Performing Arts,165,138,83.6
+2017,5,0016,GNVQ Lesiure and Recreatio,57,41,71.9
+2017,5,0017,Travel and Toursim,218,171,78.4
+2017,5,0040,Journalism,68,63,92.6
+2017,5,1010,Biology,2745,2276,82.9
+2017,5,1110,Chemistry,1658,1492,90.0
+2017,5,1210,Physics,1233,1010,81.9
+2017,5,1730,Electronics,22,20,90.9
+2017,5,1750,Environmental Science,86,73,84.9
+2017,5,1770,Geology,32,21,65.6
+2017,5,2210,Mathematics,2999,2659,88.7
+2017,5,2330,Further Maths,193,185,95.9
+2017,5,2340,Additional Mathematics,2,c,c
+2017,5,2610,Computer Studies,324,267,82.4
+2017,5,2650,Information Technology,1382,1054,76.3
+2017,5,3210,Business Studies,1310,1202,91.8
+2017,5,3310,Home Economics,525,466,88.8
+2017,5,3350,Home Economics: Food,45,37,82.2
+2017,5,3510,Art and Design,832,774,93.0
+2017,5,3570,Art and Design (Photograph,65,54,83.1
+2017,5,3690,Fine Art,14,11,78.6
+2017,5,3830,History of Art,7,6,85.7
+2017,5,3910,Geography,1637,1439,87.9
+2017,5,4010,History,2019,1703,84.3
+2017,5,4410,Economics,305,266,87.2
+2017,5,4610,Religious Studies,2020,1785,88.4
+2017,5,4770,Law,29,15,51.7
+2017,5,4830,Politics,910,800,87.9
+2017,5,4850,Psychology,450,320,71.1
+2017,5,4890,Sociology,763,593,77.7
+2017,5,4910,Citizenship,6,6,100.0
+2017,5,5010,English,23,17,73.9
+2017,5,5030,English Language,59,45,76.3
+2017,5,5110,English Literature,1835,1550,84.5
+2017,5,5210,Drama,466,413,88.6
+2017,5,5350,Media Studies,1158,967,83.5
+2017,5,5360,Film Studies,10,c,c
+2017,5,5550,Irish,327,312,95.4
+2017,5,5650,French,462,426,92.2
+2017,5,5670,German,99,89,89.9
+2017,5,5690,Italian,1,c,c
+2017,5,5730,Portuguese,16,11,68.8
+2017,5,5750,Spanish,510,466,91.4
+2017,5,5950,Chinese,15,15,100.0
+2017,5,6070,Polish,68,60,88.2
+2017,5,6090,Russian,2,c,c
+2017,5,6130,Urdu,1,c,c
+2017,5,6530,Classical Civilisation,103,91,88.3
+2017,5,6610,Latin,14,12,85.7
+2017,5,7010,Music,323,289,89.5
+2017,5,7040,Music Technology,2,c,c
+2017,5,7210,PE Studies,565,432,76.5
+2017,5,7230,Dance,6,6,100.0
+2017,5,7410,Accounting/Finance,136,102,75.0
+2017,5,9060,Systems,530,454,85.7
+2017,5,9080,Design and technology: Pro,493,319,64.7
+2018,5,0001,Applied Art & Des,7,7,100.0
+2018,5,0002,Applied Business,1182,1031,87.2
+2018,5,0003,Health & Soc Care,2279,2042,89.6
+2018,5,0008,Applied Science,30,21,70.0
+2018,5,0010,Applied ICT,1581,1390,87.9
+2018,5,0015,Performing Arts,207,175,84.5
+2018,5,0016,Leisure & Recreatio,34,23,67.6
+2018,5,0017,Travel & Tourism,267,215,80.5
+2018,5,0040,Journalism,97,91,93.8
+2018,5,1010,Biology,2661,2205,82.9
+2018,5,1110,Chemistry,1594,1406,88.2
+2018,5,1210,Physics,1208,938,77.6
+2018,5,1310,Science SA,179,99,55.3
+2018,5,1370,Science Double Awd,137,111,81.0
+2018,5,1730,Sci: Electronics,14,13,92.9
+2018,5,1750,Sci: Environmental,107,85,79.4
+2018,5,1770,Science: Geology,20,15,75.0
+2018,5,2210,Mathematics,2875,2553,88.8
+2018,5,2330,Maths (Further),192,183,95.3
+2018,5,2340,Additional Maths,1,c,c
+2018,5,2610,Com.Stds/Computing,364,313,86.0
+2018,5,2650,Inform Comm Tech,998,721,72.2
+2018,5,3210,Bus. Studs:Single,1489,1307,87.8
+2018,5,3310,Home Economics,13,7,53.8
+2018,5,3350,HE: Food,589,536,91.0
+2018,5,3510,Art & Design,751,706,94.0
+2018,5,3570,Art & Des(Photo.),61,56,91.8
+2018,5,3650,Art & Des(Textles),2,c,c
+2018,5,3690,Art&Des : Fine Art,37,30,81.1
+2018,5,3830,History of Art,14,14,100.0
+2018,5,3910,Geography,1573,1358,86.3
+2018,5,4010,History,1688,1405,83.2
+2018,5,4410,Economics,298,262,87.9
+2018,5,4610,Religious Studies,1964,1735,88.3
+2018,5,4770,Law,24,12,50.0
+2018,5,4830,Govt & Politics,967,833,86.1
+2018,5,4850,Psychology,448,315,70.3
+2018,5,4890,Sociology,752,535,71.1
+2018,5,4892,Anthropology,8,c,c
+2018,5,5010,English,44,33,75.0
+2018,5,5030,English Language,43,31,72.1
+2018,5,5110,English Literature,1793,1542,86.0
+2018,5,5210,Drama & Theat.Stds,348,326,93.7
+2018,5,5230,Creative Writing,23,20,87.0
+2018,5,5350,Media/Film/TV Stds,1072,880,82.1
+2018,5,5360,Film Studies,24,16,66.7
+2018,5,5550,Irish,324,306,94.4
+2018,5,5650,French,408,377,92.4
+2018,5,5670,German,103,92,89.3
+2018,5,5690,Italian,3,c,c
+2018,5,5730,Portuguese,12,9,75.0
+2018,5,5750,Spanish,421,403,95.7
+2018,5,5910,Arabic,2,c,c
+2018,5,5950,Chinese,19,19,100.0
+2018,5,6070,Polish,63,55,87.3
+2018,5,6090,Russian,8,8,100.0
+2018,5,6110,Turkish,1,c,c
+2018,5,6150,Persian,2,c,c
+2018,5,6530,Class.Civilisation,72,61,84.7
+2018,5,6610,Latin,6,6,100.0
+2018,5,7010,Music,354,295,83.3
+2018,5,7040,Music Technology,2,c,c
+2018,5,7210,Sport/P.E. Studies,535,482,90.1
+2018,5,7230,Dance,2,c,c
+2018,5,7410,Accounting/Finance,116,101,87.1
+2018,5,8900,Design& Technology,580,489,84.3
+2018,5,9050,D&T Textiles Tech.,3,c,c
+2018,5,9060,D&T Systems & Cont,11,11,100.0
+2018,5,9080,D&T Product Design,367,225,61.3
+2019,5,0003,Health and Social Care,2500,2265,90.6
+2019,5,0015,Performing Arts,176,153,86.9
+2019,5,1010,Biology,2380,2045,85.9
+2019,5,1110,Chemistry,1518,1343,88.5
+2019,5,1210,Physics,1068,870,81.5
+2019,5,1730,Science: Electronics,6,5,83.3
+2019,5,1750,Science: Environmental,120,94,78.3
+2019,5,1770,Science: Geology,15,12,80.0
+2019,5,2210,Mathematics,2722,2452,90.1
+2019,5,2330,Maths (Further),167,164,98.2
+2019,5,2610,Computer Studies / Computing,329,267,81.2
+2019,5,2650,Information and Communication Technology,944,697,73.8
+2019,5,3210,Business,1847,1565,84.7
+2019,5,3310,Home Economics,585,519,88.7
+2019,5,3510,Art and Design,764,707,92.5
+2019,5,3570,Art and Design (Photography),43,38,88.4
+2019,5,3650,Art and Design (Textiles),4,c,c
+2019,5,3690,Art and Design (Fine Art),35,35,100.0
+2019,5,3830,History of Art,2,c,c
+2019,5,3910,Geography,1529,1354,88.6
+2019,5,4010,History,1598,1372,85.9
+2019,5,4410,Economics,293,265,90.4
+2019,5,4610,Religious Studies,1732,1538,88.8
+2019,5,4770,Law,5,c,c
+2019,5,4830,Government and Politics,937,833,88.9
+2019,5,4850,Psychology,448,323,72.1
+2019,5,4890,Sociology,669,546,81.6
+2019,5,5010,English,28,17,60.7
+2019,5,5030,English Language,44,36,81.8
+2019,5,5110,English Literature,1601,1405,87.8
+2019,5,5210,Drama and Theatre Studies,348,327,94.0
+2019,5,5350,Media,462,393,85.1
+2019,5,5360,Film Studies,9,c,c
+2019,5,5550,Irish,283,268,94.7
+2019,5,5650,French,350,328,93.7
+2019,5,5670,German,68,66,97.1
+2019,5,5690,Italian,2,c,c
+2019,5,5730,Portuguese,14,8,57.1
+2019,5,5750,Spanish,441,429,97.3
+2019,5,5910,Arabic,4,c,c
+2019,5,5950,Chinese,28,28,100.0
+2019,5,6070,Polish,57,52,91.2
+2019,5,6090,Russian,8,8,100.0
+2019,5,6110,Turkish,1,c,c
+2019,5,6130,Urdu,2,c,c
+2019,5,6510,Ancient History,9,8,88.9
+2019,5,6530,Classic Civilisation,65,57,87.7
+2019,5,6610,Latin,7,6,85.7
+2019,5,7010,Music,279,228,81.7
+2019,5,7040,Music Technology,1,c,c
+2019,5,7210,Sport / P.E. Studies,242,219,90.5
+2019,5,7410,Accounting / Finance,92,78,84.8
+2019,5,8210,IT and Art,450,395,87.8
+2019,5,8900,Design and Technology,588,498,84.7
+2019,5,9050,Design and Technology: Textiles Technology,8,5,62.5
+2019,5,9080,Design and Technology: Product Design,264,188,71.2
+2019,5,KD1,Journalism,93,87,93.5
+2019,5,LB1,Dance,4,c,c
+2019,5,MA11,Sports Science,283,255,90.1
+2019,5,NK1,Travel and Tourism,5,5,100.0
+2019,5,RA1B,Applied Science,427,286,67.0
+2020,5,0003,Health and Social Care,2715,2623,96.6
+2020,5,0015,Performing Arts,234,227,97.0
+2020,5,1010,Biology,2448,2340,95.6
+2020,5,1110,Chemistry,1642,1602,97.6
+2020,5,1210,Physics,996,950,95.4
+2020,5,1730,Science: Electronics,10,10,100.0
+2020,5,1750,Science: Environmental,115,106,92.2
+2020,5,1770,Science: Geology,11,11,100.0
+2020,5,2210,Mathematics,2839,2744,96.7
+2020,5,2330,Maths (Further),154,154,100.0
+2020,5,2610,Computer Studies / Computing,343,331,96.5
+2020,5,2650,Information and Communication Technology,824,764,92.7
+2020,5,3210,Business,1814,1735,95.6
+2020,5,3310,Home Economics,600,566,94.3
+2020,5,3510,Art and Design,773,745,96.4
+2020,5,3570,Art and Design (Photography),31,29,93.5
+2020,5,3650,Art and Design (Textiles),8,8,100.0
+2020,5,3690,Art and Design (Fine Art),48,48,100.0
+2020,5,3910,Geography,1448,1386,95.7
+2020,5,4010,History,1622,1561,96.2
+2020,5,4410,Economics,259,254,98.1
+2020,5,4610,Religious Studies,1721,1665,96.7
+2020,5,4770,Law,10,6,60.0
+2020,5,4830,Government and Politics,973,926,95.2
+2020,5,4850,Psychology,409,362,88.5
+2020,5,4890,Sociology,650,639,98.3
+2020,5,5010,English,33,28,84.8
+2020,5,5030,English Language,30,30,100.0
+2020,5,5110,English Literature,1574,1520,96.6
+2020,5,5210,Drama and Theatre Studies,324,324,100.0
+2020,5,5350,Media,463,445,96.1
+2020,5,5360,Film Studies,12,11,91.7
+2020,5,5550,Irish,302,294,97.4
+2020,5,5650,French,324,319,98.5
+2020,5,5670,German,89,89,100.0
+2020,5,5690,Italian,2,c,c
+2020,5,5730,Portuguese,13,13,100.0
+2020,5,5750,Spanish,462,456,98.7
+2020,5,5910,Arabic,15,15,100.0
+2020,5,5950,Chinese,5,5,100.0
+2020,5,6070,Polish,35,29,82.9
+2020,5,6090,Russian,6,6,100.0
+2020,5,6530,Classic Civilisation,73,70,95.9
+2020,5,6550,Classical Greek,1,c,c
+2020,5,6610,Latin,10,10,100.0
+2020,5,7010,Music,253,250,98.8
+2020,5,7210,Sport / P.E. Studies,293,284,96.9
+2020,5,7410,Accounting / Finance,48,47,97.9
+2020,5,8210,IT and Art,445,432,97.1
+2020,5,8900,Design and Technology,521,497,95.4
+2020,5,9050,Design and Technology: Textiles Technology,15,13,86.7
+2020,5,9080,Design and Technology: Product Design,205,179,87.3
+2020,5,KD1,Journalism,101,96,95.0
+2020,5,LB1,Dance,7,7,100.0
+2020,5,MA11,Sports Science,206,202,98.1
+2020,5,RA1B,Applied Science,400,363,90.8
+2021,5,0003,Health and Social Care,3073,2938,95.6
+2021,5,0015,Performing Arts,216,208,96.3
+2021,5,1010,Biology,2649,2527,95.4
+2021,5,1110,Chemistry,1750,1675,95.7
+2021,5,1210,Physics,1214,1136,93.6
+2021,5,1730,Science: Electronics,9,9,100.0
+2021,5,1750,Science: Environmental,125,117,93.6
+2021,5,1770,Science: Geology,19,18,94.7
+2021,5,2210,Mathematics,3045,2866,94.1
+2021,5,2330,Maths (Further),177,174,98.3
+2021,5,2610,Computer Studies / Computing,337,320,95.0
+2021,5,2650,Information and Communication Technology,708,683,96.5
+2021,5,3210,Business,1818,1738,95.6
+2021,5,3310,Home Economics,664,645,97.1
+2021,5,3510,Art and Design,717,695,96.9
+2021,5,3570,Art and Design (Photography),27,26,96.3
+2021,5,3650,Art and Design (Textiles),7,6,85.7
+2021,5,3690,Art and Design (Fine Art),43,41,95.3
+2021,5,3910,Geography,1832,1756,95.9
+2021,5,4010,History,2019,1928,95.5
+2021,5,4410,Economics,249,243,97.6
+2021,5,4610,Religious Studies,1646,1589,96.5
+2021,5,4770,Law,6,5,83.3
+2021,5,4830,Government and Politics,942,893,94.8
+2021,5,4850,Psychology,463,417,90.1
+2021,5,4890,Sociology,753,701,93.1
+2021,5,5010,English,35,28,80.0
+2021,5,5030,English Language,46,43,93.5
+2021,5,5110,English Literature,1427,1354,94.9
+2021,5,5210,Drama and Theatre Studies,357,356,99.7
+2021,5,5350,Media,420,397,94.5
+2021,5,5360,Film Studies,9,8,88.9
+2021,5,5550,Irish,312,307,98.4
+2021,5,5650,French,317,309,97.5
+2021,5,5670,German,90,89,98.9
+2021,5,5690,Italian,2,c,c
+2021,5,5730,Portuguese,3,c,c
+2021,5,5750,Spanish,438,430,98.2
+2021,5,5910,Arabic,7,6,85.7
+2021,5,5950,Chinese,4,c,c
+2021,5,6070,Polish,23,21,91.3
+2021,5,6090,Russian,3,c,c
+2021,5,6510,Ancient History,9,8,88.9
+2021,5,6530,Classic Civilisation,44,41,93.2
+2021,5,6610,Latin,4,c,c
+2021,5,7010,Music,227,226,99.6
+2021,5,7210,Sport / P.E. Studies,287,281,97.9
+2021,5,7410,Accounting / Finance,76,65,85.5
+2021,5,8210,IT and Art,375,353,94.1
+2021,5,8900,Design and Technology,617,586,95.0
+2021,5,9050,Design and Technology: Textiles Technology,22,15,68.2
+2021,5,9080,Design and Technology: Product Design,161,140,87.0
+2021,5,KD1,Journalism,91,84,92.3
+2021,5,LB1,Dance,5,5,100.0
+2021,5,MA11,Sports Science,208,200,96.2
+2021,5,RA1B,Applied Science,455,404,88.8
